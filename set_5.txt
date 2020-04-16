@@ -2,7 +2,7 @@
 Close The Gap
 Energy Drills
 5
-600
+1800
 5
 1800
-2400
+3600
