@@ -775,13 +775,4 @@ Fitness #3
 Jump Rope #1
 Jump Rope #2
 Jump Rope #3
-Iron Chop
-Iron Cross Elbow
-Iron Front Kick
-Iron Hammer
-Iron Knee
-Iron Palm
-Iron Round Kick
-Iron Shoulder
-Iron Side Kick
-Iron Up Elbow
+Light Static Stretching
