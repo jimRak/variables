@@ -2,10 +2,10 @@
 Close The Gap
 Leg Conditioning
 Iron Body
-4
-1500
+3
+1800
 1
 1200
-2
+1
 600
-3300
+3600
