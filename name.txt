@@ -596,8 +596,6 @@ Pak Da Pull into Wall
 Punch Drill Grab Pull into Short Wall Atks from Side
 Stun RKick Pak Da Push into Wall Atk
 Stun SKick Pak Da Grab Pull into Wall Atk
-Makiwara
-Iron Shirt
 Chi Sao Grab Twist
 Chi Sao Grab Pull Away
 Chi Sao Grab Pull Down with Body
@@ -776,3 +774,44 @@ Jump Rope #1
 Jump Rope #2
 Jump Rope #3
 Light Static Stretching
+Iron Arms
+Iron Legs
+Iron Shirt
+Rolling Wrist
+Single Hand Chi Sao
+PD In & Out Trap
+PD Change Side In Trap
+PD In Trap  Double In Chop
+PD In Trap Angle Punch
+PD In Trap Change Hands
+PD In Trap Double Punch
+PD In Trap Elbow Chest Out Chop
+PD In Trap Elbow Chest
+PD In Trap In Chop Elbow
+PD In Trap In Chop Out Chop Head Lock
+PD In Trap In Chop
+PD In Trap Move In
+PD In Trap Out Chop
+PD In Trap Punch
+PD In Trap Step In
+PD In Trap Throat Grab Elbow Chest Out Chop
+PD In Trap
+PD In Trap Move In Palm To Chin
+PD In Trap Palm to Chin
+PD Change Side Out Trap
+PD Out Trap Angle Punch
+PD Out Trap Chain Palm
+PD Out Trap Out Chop
+PD Out Trap Punch
+PD Out Trap Push Block Round Kick Low
+PD Out Trap Push
+PD Out Trap Side Push
+PD Out Trap
+Gaun Da
+Gaun Da with Shifting
+Gum Da
+Lap Da with Shifting
+Pak Da
+Pak Da with Stepping
+Tan Da
+Tan Da with Stepping
