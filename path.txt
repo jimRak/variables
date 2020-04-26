@@ -815,3 +815,36 @@
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Basic/Pak Da with Stepping.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Basic/Tan Da.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Basic/Tan Da with Stepping.mp4
+/media/videos/WingChun/Level_1_Apprentice/Close The Gap/stepping/Stepping Chop & Side Kick.mp4
+/media/videos/WingChun/Level_1_Apprentice/Energy Drills/drill_techs/Sideline/Take Down/PD Fook Gum Take Down.mp4
+/media/videos/WingChun/Level_1_Apprentice/Energy Drills/drill_techs/Trapping/Inside/PD In Trap Pull Neck Elbow.mp4
+/media/videos/WingChun/Level_1_Apprentice/Leg Conditioning/Balance/Balance on Wheel & Kick.mp4
+/media/videos/WingChun/Level_1_Apprentice/Leg Conditioning/Balance/Single Leg Balance on Pole.mp4
+/media/videos/WingChun/Level_1_Apprentice/Leg Conditioning/Balance/Walk on Poles.mp4
+/media/videos/WingChun/Level_1_Apprentice/Leg Conditioning/Stances/Knee Block Opp on Ground.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Basic/Static Chop Kick.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Basic/Static Side Kick.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Basic/Shift Block High & Low with Palm.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Combo Atk & Def/Atk Kick & Punch/Chain Punch Side Kick High.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Combo Atk & Def/Atk Kick & Punch/Chain Punch Side Kick on Thigh.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Basic/Knee Block on Round Kick.mp4
+/media/videos/WingChun/Level_2_Knight/Close The Gap/Stepping/Step Forward with Weight on Core.mp4
+/media/videos/WingChun/Level_2_Knight/Close The Gap/Stepping/Step Forward Changing Side with Weight on Back.mp4
+/media/videos/WingChun/Level_2_Knight/Close The Gap/Stepping/Step Forward All Kicks with Weight on Back.mp4
+/media/videos/WingChun/Level_2_Knight/Energy Drills/Punch Drill/Waist Grabbed Take Down/PD Def Waist Grab Take Down 2x Knee Side Kick.mp4
+/media/videos/WingChun/Level_2_Knight/Energy Drills/Punch Drill/Waist Grabbed Take Down/PD Def Waist Grab Take Down Avoid Kicks & Control.mp4
+/media/videos/WingChun/Level_2_Knight/Energy Drills/Punch Drill/Waist Grabbed Take Down/PD Def Waist Grab Take Down Block Kicks & Kick.mp4
+/media/videos/WingChun/Level_2_Knight/Energy Drills/Punch Drill/Waist Grabbed Take Down/PD Def Waist Grab Take Down.mp4
+/media/videos/WingChun/Level_2_Knight/Energy Drills/Punch Drill/Opp Brings you Down/PD Opp Brings you Down Kick from Ground.mp4
+/media/videos/WingChun/Level_2_Knight/Leg Conditioning/Balance/Balance on Ball.mp4
+/media/videos/WingChun/Level_2_Knight/Leg Conditioning/Balance/Handle Item with Pole on Poles.mp4
+/media/videos/WingChun/Level_2_Knight/Leg Conditioning/Stances/Horse Stance with Food.mp4
+/media/videos/WingChun/Level_2_Knight/Leg Conditioning/Stances/Knee Block Opp on Ground with Weight on Core.mp4
+/media/videos/WingChun/Level_2_Knight/Leg Conditioning/Stances/Knee & Stamp Opp on Ground Drill with Weight on Core.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Atk & Def Body Grab/Def Waist Grab Take Down Kick Opp on Ground & Control.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Atk & Def Body Grab/Def Waist Grab Take Down Control.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Combo Atk/Hand & Leg/Chain Punch Fook Cross Elbow Grab Take Down.mp4
+/media/videos/WingChun/Level_3_Master/Leg Conditioning/Balance/Handle Pole on Ball.mp4
+/media/videos/WingChun/Level_3_Master/Leg Conditioning/Balance/Squat on Ball.mp4
+/media/videos/WingChun/Level_3_Master/Leg Conditioning/Balance/Walk on Poles with Weight on Core.mp4
+/media/videos/WingChun/Level_3_Master/Leg Conditioning/Stances/Horse Stance with Weight on Core.mp4
