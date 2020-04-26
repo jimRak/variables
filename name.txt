@@ -848,3 +848,28 @@ Handle Pole on Ball
 Squat on Ball
 Walk on Poles with Weight on Core
 Horse Stance with Weight on Core
+Block Stick High & Knife Low Divert Close The Gap Push
+Block Stick Low & Knife High Divert Close the Gap Push
+Block Bat Full Drill & Close The Gap Push
+Block Bat Full Drill & Close The Gap
+Block Bat Side High Slash Close The Gap Push
+Block Bat Side High Slash Close The Gap
+Block Bat Side Low Slash Close The Gap Push
+Block Bat Side Low Slash Close The Gap
+Block Knife Downward Straight Stab Divert Close The Gap Push
+Block Knife Downward Straight Stab Divert Close The Gap
+Block Knife Drill & Close The Gap & Push
+Block Knife Drill & Close The Gap
+Block Knife Side High Stab Divert Close The Gap Push
+Block Knife Side Low Stab Divert Close The Gap Push
+Block Knife Side Low Stab Divert Close The Gap
+Block Knife Straight Low Stab Divert Close The Gap Push
+Block Knife Straight Low Stab Divert Close The Gap
+Block Stick Full Drill & Close The Gap & Push
+Block Stick Full Drill & Close The Gap
+Block Stick Side High Swing Divert Close The Gap Push
+Block Stick Side High Swing Divert Close The Gap
+Block Stick Side Low Swing Divert Close The Gap Push
+Block Stick Side Low Swing Divert Close The Gap
+Block Stick Straight Stab Divert Close The Gap Push
+Block Stick Straight Stab Divert Close The Gap
