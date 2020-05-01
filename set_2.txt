@@ -3,6 +3,6 @@ Forms
 Iron Body
 5
 1800
-1
+2
 1200
 3000
