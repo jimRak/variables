@@ -82,13 +82,13 @@ Energy Drills
 Energy Drills
 Energy Drills
 Energy Drills
-Leg Conditioning
-Leg Conditioning
-Leg Conditioning
-Leg Conditioning
-Leg Conditioning
-Leg Conditioning
-Leg Conditioning
+Leg Cond.
+Leg Cond.
+Leg Cond.
+Leg Cond.
+Leg Cond.
+Leg Cond.
+Leg Cond.
 Techniques
 Techniques
 Techniques
@@ -412,12 +412,12 @@ Energy Drills
 Energy Drills
 Energy Drills
 Energy Drills
-Leg Conditioning
-Leg Conditioning
-Leg Conditioning
-Leg Conditioning
-Leg Conditioning
-Leg Conditioning
+Leg Cond.
+Leg Cond.
+Leg Cond.
+Leg Cond.
+Leg Cond.
+Leg Cond.
 Techniques
 Techniques
 Techniques
@@ -773,7 +773,7 @@ Fitness
 Fitness
 Fitness
 Fitness
-Leg Conditioning
+Leg Cond.
 Iron Body
 Iron Body
 Iron Body
@@ -818,10 +818,10 @@ Techniques
 Close The Gap
 Energy Drills
 Energy Drills
-Leg Conditioning
-Leg Conditioning
-Leg Conditioning
-Leg Conditioning
+Leg Cond.
+Leg Cond.
+Leg Cond.
+Leg Cond.
 Techniques
 Techniques
 Techniques
@@ -836,18 +836,18 @@ Energy Drills
 Energy Drills
 Energy Drills
 Energy Drills
-Leg Conditioning
-Leg Conditioning
-Leg Conditioning
-Leg Conditioning
-Leg Conditioning
+Leg Cond.
+Leg Cond.
+Leg Cond.
+Leg Cond.
+Leg Cond.
 Techniques
 Techniques
 Techniques
-Leg Conditioning
-Leg Conditioning
-Leg Conditioning
-Leg Conditioning
+Leg Cond.
+Leg Cond.
+Leg Cond.
+Leg Cond.
 Close The Gap
 Close The Gap
 Close The Gap
