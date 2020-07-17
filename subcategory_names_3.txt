@@ -1,5 +1,5 @@
 All
-Basics
-Ground
-Multiple Atks
-Weapon
+Balance
+Strength
+Speed
+Stretching
