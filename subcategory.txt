@@ -23,6 +23,10 @@ All
 All
 All
 All
+Elbow Drill
+Elbow Drill
+Punch Drill
+Punch Drill
 All
 All
 All
@@ -31,57 +35,53 @@ All
 All
 All
 All
+Punch Drill
+Punch Drill
+Punch Drill
+All
+Punch Drill
+All
+Punch Drill
+All
+All
+All
+Punch Drill
 All
 All
 All
 All
 All
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
 All
 All
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
 All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
 Balance
 Strength
 Strength
@@ -89,17 +89,58 @@ Strength
 Strength
 Strength
 Strength
+Basics
+Basics
+Basics
+Basics
+Basics
 All
 All
+Basics
+Basics
+Basics
+Basics
+Basics
+Basics
+Basics
+Basics
+Basics
+Basics
+Basics
+Basics
+Basics
+Basics
+Basics
 All
+Basics
+Basics
 All
+Basics
+Basics
+Basics
 All
+Basics
 All
+Basics
+Basics
+Basics
+Basics
+Basics
+Basics
+Basics
+Basics
+Basics
 All
 All
+Basics
+Basics
 All
 All
 All
+Basics
+Basics
+Basics
+Basics
 All
 All
 All
@@ -115,9 +156,11 @@ All
 All
 All
 All
+Basics
 All
 All
 All
+Ground
 All
 All
 All
@@ -141,6 +184,7 @@ All
 All
 All
 All
+Basics
 All
 All
 All
@@ -151,6 +195,7 @@ All
 All
 All
 All
+Basics
 All
 All
 All
@@ -201,6 +246,9 @@ All
 All
 All
 All
+Basics
+Basics
+Basics
 All
 All
 All
@@ -317,55 +365,7 @@ All
 All
 All
 All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
+Chi Sao
 All
 All
 All
@@ -777,6 +777,8 @@ Stretching
 All
 All
 All
+Chi Sao
+Chi Sao
 All
 All
 All
@@ -805,16 +807,14 @@ All
 All
 All
 All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
+Basics
+Basics
+Basics
+Basics
+Basics
+Basics
+Basics
+Basics
 Stepping
 All
 All
@@ -822,12 +822,12 @@ Balance
 Balance
 Balance
 Strength
+Basics
+Basics
 All
 All
 All
-All
-All
-All
+Basics
 All
 All
 All
