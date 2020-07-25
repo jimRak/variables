@@ -8,6 +8,7 @@ All
 All
 All
 All
+Stepping
 All
 All
 All
@@ -86,6 +87,7 @@ All
 All
 All
 All
+Strength
 All
 All
 All
@@ -765,6 +767,12 @@ All
 All
 All
 All
+HIT
+HIT
+HIT
+Jump Rope
+Jump Rope
+Jump Rope
 All
 All
 All
@@ -865,12 +873,4 @@ All
 All
 All
 All
-All
-All
-All
-All
-All
-All
-All
-All
-All
+Running
