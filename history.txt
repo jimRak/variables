@@ -1,0 +1,36 @@
+##
+3
+Close The Gap
+Leg Cond.
+Iron Body
+4
+2400
+1
+1200
+1
+600
+4200
+#
+Stepping Behind Opponent
+Stepping Forward Chain Punch
+Stepping Forward Chop Kick
+Stepping Forward Front Kick
+Static Stretching
+Iron Legs
+#
+8
+10
+14
+15
+419
+777
+#
+25
+25
+25
+25
+25
+0
+#
+2020-07-18
+
