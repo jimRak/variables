@@ -11,6 +11,42 @@ Iron Body
 600
 4200
 #
+Stepping Forward Chop Kick
+Stepping Forward Front Kick
+Stepping Forward Round Kick
+Stepping Forward Side Kick
+Static Stretching
+Iron Legs
+#
+14
+15
+16
+13
+418
+776
+#
+25
+25
+25
+25
+25
+0
+#
+2020-08-25
+
+##
+3
+Close The Gap
+Leg Cond.
+Iron Body
+4
+2400
+1
+1200
+1
+600
+4200
+#
 Stepping Behind Opponent
 Stepping Forward Chain Punch
 Stepping Forward Chop Kick
