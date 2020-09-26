@@ -1,4 +1,44 @@
 ##
+3
+Close The Gap
+Leg Cond.
+Iron Body
+5
+2400
+1
+1200
+1
+600
+4200
+
+#
+Stepping Behind Opponent
+Stepping Chop & Side Kick
+Stepping Forward
+Stepping Forward Changing Side
+Stun All Kicks
+Static Stretching
+Iron Legs
+#
+8
+816
+9
+11
+18
+418
+776
+#
+25
+25
+25
+25
+25
+25
+25
+#
+2020-09-25
+
+##
 1
 Fitness
 1
