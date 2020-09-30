@@ -766,9 +766,9 @@
 /media/videos/WingChun/Level_3_Master/Close The Gap/Shield & Advance/Shield Hammer on Fist Grab Neck Elbow Face Push.mp4
 /media/videos/WingChun/Level_3_Master/Close The Gap/Shield & Advance/Shield Round Kick to Groin Hammer on Fist Chop Kick on Shin.mp4
 /media/videos/WingChun/Level_3_Master/Close The Gap/Shield & Advance/Shield Side & Chop Kick Knee.mp4
-/media/videos/Fitness/Fitness #1.mp4
-/media/videos/Fitness/Fitness #2.mp4
-/media/videos/Fitness/Fitness #3.mp4
+/media/videos/Fitness/HIT/Fitness #1.mp4
+/media/videos/Fitness/HIT/Fitness #2.mp4
+/media/videos/Fitness/HIT/Fitness #3.mp4
 /media/videos/Fitness/Jump Rope/Jump Rope #1.mp4
 /media/videos/Fitness/Jump Rope/Jump Rope #2.mp4
 /media/videos/Fitness/Jump Rope/Jump Rope #3.mp4
@@ -873,3 +873,10 @@
 /media/videos/WingChun/Level_3_Master/Close The Gap/weapon/Weapon Stick Training/Block Stick Straight Stab Divert Close The Gap Push.mp4
 /media/videos/WingChun/Level_3_Master/Close The Gap/weapon/Weapon Stick Training/Block Stick Straight Stab Divert Close The Gap.mp4
 /media/videos/Fitness/Running.mp4
+/media/videos/Fitness/Aerobic/Swimming.mp4
+/media/videos/Fitness/Muscle/Bullworker: Back-Chest-Biceps-Abs.mp4
+/media/videos/Fitness/Muscle/Bullworker: Chest-Biceps-Abs.mp4
+/media/videos/Fitness/Muscle/Bullworker: Legs-Biceps-Back.mp4
+/media/videos/Fitness/Muscle/Bullworker: Triceps-Shoulders-Legs.mp4
+/media/videos/Fitness/Muscle/Push Up.mp4
+/media/videos/Fitness/Muscle/Sit Up.mp4

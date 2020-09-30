@@ -873,3 +873,10 @@ Block Stick Side Low Swing Divert Close The Gap
 Block Stick Straight Stab Divert Close The Gap Push
 Block Stick Straight Stab Divert Close The Gap
 Running
+Swimming
+Bullworker: Back, Chest, Biceps, Abs
+Bullworker: Chest, Biceps, Abs
+Bullworker: Legs, Biceps, Back
+Bullworker: Triceps, Shoulders, Legs
+Push Up
+Sit Up
