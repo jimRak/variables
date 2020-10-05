@@ -1,11 +1,8 @@
-3
-Close The Gap
-Leg Cond.
-Iron Body
+2
+Techniques
+Energy Drills
 5
-60
-1
-60
-1
-60
-180
+2400
+5
+2400
+4800
