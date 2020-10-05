@@ -1,8 +1,8 @@
 2
-Fitness
+Techniques
 Energy Drills
-1
-1800
 5
 2400
-4200
+5
+2400
+4800
