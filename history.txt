@@ -1,6 +1,45 @@
 ##
 2
 Techniques
+Leg Cond.
+5
+3000
+3
+1800
+4800
+#
+Block Punch & Uppercut & Hook
+Block Punch Cover Hook
+Block Solid Two Punch & Hook<br>&nbsp;&nbsp;& Uppercut
+Solid Block Double Punch
+Solid Block Punch
+Knee Block Opp on Ground
+Side Stance
+Walk on Poles
+#
+213
+214
+215
+132
+133
+822
+86
+821
+#
+15
+25
+25
+25
+25
+25
+25
+25
+#
+2020-10-10
+
+##
+2
+Techniques
 Energy Drills
 5
 2400
