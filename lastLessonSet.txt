@@ -1,8 +1,8 @@
 2
-Techniques
-Leg Cond.
-5
-3000
-3
+Fitness
+Iron Body
+1
 1800
-4800
+1
+1200
+3000

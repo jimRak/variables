@@ -1,5 +1,27 @@
 ##
 2
+Fitness
+Iron Body
+1
+1800
+1
+1200
+3000
+
+#
+Fitness #2
+Iron Arms
+#
+769
+775
+#
+25
+25
+#
+2020-10-11
+
+##
+2
 Techniques
 Leg Cond.
 5
