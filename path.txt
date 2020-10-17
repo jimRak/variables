@@ -766,12 +766,12 @@
 /media/videos/WingChun/Level_3_Master/Close The Gap/Shield & Advance/Shield Hammer on Fist Grab Neck Elbow Face Push.mp4
 /media/videos/WingChun/Level_3_Master/Close The Gap/Shield & Advance/Shield Round Kick to Groin Hammer on Fist Chop Kick on Shin.mp4
 /media/videos/WingChun/Level_3_Master/Close The Gap/Shield & Advance/Shield Side & Chop Kick Knee.mp4
-/media/videos/Fitness/HIT/Fitness #1.mp4
-/media/videos/Fitness/HIT/Fitness #2.mp4
-/media/videos/Fitness/HIT/Fitness #3.mp4
-/media/videos/Fitness/Jump Rope/Jump Rope #1.mp4
-/media/videos/Fitness/Jump Rope/Jump Rope #2.mp4
-/media/videos/Fitness/Jump Rope/Jump Rope #3.mp4
+/media/videos/Fitness/HIT/Fitness 1.mp4
+/media/videos/Fitness/HIT/Fitness 2.mp4
+/media/videos/Fitness/HIT/Fitness 3.mp4
+/media/videos/Fitness/Jump Rope/Jump Rope 1.mp4
+/media/videos/Fitness/Jump Rope/Jump Rope 2.mp4
+/media/videos/Fitness/Jump Rope/Jump Rope 3.mp4
 /media/videos/WingChun/Level_1_Apprentice/Leg Conditioning/Stretching/Light Static Stretching.mp4
 /media/videos/WingChun/Level_3_Master/Iron Body/Iron Arms.mp4
 /media/videos/WingChun/Level_3_Master/Iron Body/Iron Legs.mp4
