@@ -1,5 +1,44 @@
 ##
 2
+Techniques
+Energy Drills
+4
+1800
+4
+1800
+3600
+#
+Block Punch & Uppercut & Hook
+Chain Punch Chop Kick
+Chop Kick Chain Punch
+Side Kick Front Kick
+PD Block Round Kick High
+PD Block Round Kick Low
+PD Grab Pull
+PD Grab Pull with Step
+#
+213
+164
+165
+160
+59
+60
+80
+79
+#
+25
+25
+25
+25
+25
+25
+25
+25
+#
+2020-10-17
+
+##
+2
 Forms
 Iron Body
 4
