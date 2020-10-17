@@ -78,7 +78,7 @@ Iron Body
 3000
 
 #
-Fitness #2
+Fitness 2
 Iron Arms
 #
 769
