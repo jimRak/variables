@@ -210,8 +210,8 @@ Block Punch & Down Punch & Front kick
 Block Punch & Hook & Side Kick
 Block Round Kick Low & Double Punch Grab Leg
 Block Side Kick & Punch & Hook
-Block Punch & Hook & Uppercut
-Block Punch & Uppercut & Hook
+Block 2x Punch & 2x Hook H &  2x Uppercut
+Block 2x Punch & Hook L & H & 2x Uppercut
 Block Punch Cover Hook
 Block Solid Two Punch & Hook & Uppercut
 Block Solid Two Punch & Hook Low
