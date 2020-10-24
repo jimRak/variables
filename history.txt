@@ -1,4 +1,31 @@
 ##
+1
+Techniques
+5
+3000
+3000
+#
+Block 2x Punch & 2x Hook H &<br>&nbsp;&nbsp;2x Uppercut
+Block 2x Punch & Hook L & H &<br>&nbsp;&nbsp;2x Uppercut
+Block Solid Two Punch & Hook
+Block Two Hook & Uppercut
+Block Two Hook High
+#
+212
+213
+217
+218
+219
+#
+25
+25
+25
+25
+25
+#
+2020-10-24
+
+##
 2
 Forms
 Energy Drills
