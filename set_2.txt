@@ -3,9 +3,9 @@ Close The Gap
 Leg Cond.
 Iron Body
 5
-2400
+1800
 1
 1200
 1
 600
-4200
+3600

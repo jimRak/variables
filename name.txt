@@ -245,9 +245,9 @@ Stun SKick Chain Punch Block Hook L Go Behind
 Stun SKick Chain Punch Block Hook L Twist
 Stun SKick Chain Punch Block Hook L&H
 Stun SKick Chain Punch Block Hook L
-Block Punch
-Round Kick
-Side Kick
+Block Punch Street
+Round Kick Street
+Side Kick Street
 Block Jab & Atk Block Hook H Divert Go Behind
 Block Jab & Atk Block Hook H Divert Push
 Block Jab & Atk Block Hook H Twist
