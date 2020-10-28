@@ -218,8 +218,8 @@ Block Solid Two Punch & Hook Low
 Block Solid Two Punch & Hook
 Block Two Hook & Uppercut
 Block Two Hook High
-Block Two Punch & Hook & Uppercut
-Block Two Punch & Hook
+Destroy Arms: 2x Punch & Hook & Uppercut
+Destroy Arms: 2x Punch & Hook
 Block Two Punch with Shift & Hook & Uppercut
 Block Two Punch with Shift & Hook Low
 Cover Front Kick to Head from Knees
