@@ -1,4 +1,43 @@
 ##
+2
+Techniques
+Leg Cond.
+5
+2400
+3
+1800
+4200
+#
+Block Punch Cover Hook
+Block Solid Two Punch & Hook<br>&nbsp;&nbsp;& Uppercut
+Block Two Punch with Shift &<br>&nbsp;&nbsp;Hook & Uppercut
+Destroy Arms: 2x Punch & Hook
+Destroy Arms: 2x Punch & Hook<br>&nbsp;&nbsp;& Uppercut
+Balance on Wheel & Kick
+Goat Stance
+Single Leg Balance on Pole
+#
+214
+215
+222
+221
+220
+819
+89
+820
+#
+25
+25
+25
+25
+25
+25
+25
+20
+#
+2020-10-28
+
+##
 3
 Close The Gap
 Leg Cond.
