@@ -880,8 +880,6 @@
 /media/videos/Fitness/Muscle/Bullworker: Triceps-Shoulders-Legs.mp4
 /media/videos/Fitness/Muscle/Push Up.mp4
 /media/videos/Fitness/Muscle/Sit Up.mp4
-/media/videos/Fitness/Muscle/Box Jump Over.mp4
-/media/videos/Fitness/Muscle/Dumbbell Swing.mp4
-/media/videos/Fitness/Muscle/Wall Ball.mp4
 /media/videos/Fitness/Muscle/Sumo Squat.mp4
 /media/videos/Fitness/Jump Rope/Jump Rope: Single Under.mp4
+/media/videos/WingChun/Forms/Pole Form.mp4

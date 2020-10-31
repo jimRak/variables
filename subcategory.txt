@@ -3,10 +3,10 @@ All
 All
 All
 All
+Divert
+Divert
+Divert
 All
-All
-All
-All
 Stepping
 Stepping
 Stepping
@@ -15,14 +15,14 @@ Stepping
 Stepping
 Stepping
 Stepping
-All
 Stun
-All
-All
-All
-All
-All
-All
+Stun
+Stun
+Stun
+Stun
+Stun
+Stun
+Stun
 Elbow Drill
 Elbow Drill
 Punch Drill
@@ -30,27 +30,11 @@ Punch Drill
 All
 All
 All
-All
-All
-All
-All
-All
-Punch Drill
-Punch Drill
-Punch Drill
-All
-Punch Drill
-All
-Punch Drill
-All
-All
-All
-Punch Drill
-All
-All
-All
-All
-All
+Elbow Drill
+Elbow Drill
+Elbow Drill
+Elbow Drill
+Elbow Drill
 Punch Drill
 Punch Drill
 Punch Drill
@@ -66,8 +50,24 @@ Punch Drill
 Punch Drill
 Punch Drill
 Punch Drill
-All
-All
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
+Punch Drill
 Punch Drill
 Punch Drill
 Punch Drill
@@ -778,34 +778,34 @@ All
 All
 Chi Sao
 Chi Sao
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
-All
+Trapping
+Trapping
+Trapping
+Trapping
+Trapping
+Trapping
+Trapping
+Trapping
+Trapping
+Trapping
+Trapping
+Trapping
+Trapping
+Trapping
+Trapping
+Trapping
+Trapping
+Trapping
+Trapping
+Trapping
+Trapping
+Trapping
+Trapping
+Trapping
+Trapping
+Trapping
+Trapping
+Trapping
 Basics
 Basics
 Basics
@@ -815,8 +815,8 @@ Basics
 Basics
 Basics
 Stepping
-All
-All
+Punch Drill
+Trapping
 Balance
 Balance
 Balance
@@ -874,9 +874,6 @@ All
 All
 Aerobic
 Aerobic
-Muscle
-Muscle
-Muscle
 Muscle
 Muscle
 Muscle
@@ -885,3 +882,4 @@ Muscle
 Muscle
 Muscle
 Jump Rope
+All
