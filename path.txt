@@ -884,4 +884,4 @@
 /media/videos/Fitness/Muscle/Dumbbell Swing.mp4
 /media/videos/Fitness/Muscle/Wall Ball.mp4
 /media/videos/Fitness/Muscle/Sumo Squat.mp4
-/media/videos/Fitness/Jump Rope/Jump Rope: Singe Under.mp4
+/media/videos/Fitness/Jump Rope/Jump Rope: Single Under.mp4
