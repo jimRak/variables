@@ -155,7 +155,7 @@ Fitness
 2100
 2100
 #
-Fitness 3
+HIT: JR Squat Climbers Star Crunch Plank Rotation & Knee Burpee Bench Jump Sit up
 #
 770
 #
@@ -285,7 +285,7 @@ Iron Body
 3000
 
 #
-Fitness 2
+HIT: JR, Push up, Sumo Squat, Star Squat, Plank to Push up, Side Plank, Bench Jump, Sit up
 Iron Arms
 #
 769
