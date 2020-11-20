@@ -3,9 +3,9 @@ Energy Drills
 Leg Cond.
 Iron Body
 3
-2400
+1800
 3
-600
+1800
 1
-1200
+600
 4200
