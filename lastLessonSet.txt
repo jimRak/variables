@@ -1,5 +1,11 @@
+3
+Energy Drills
+Leg Cond.
+Iron Body
+3
+1500
+3
+1500
 1
-Forms
-1
-1800
-1800
+600
+3600

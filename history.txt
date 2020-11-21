@@ -1,4 +1,43 @@
 ##
+3
+Energy Drills
+Leg Cond.
+Iron Body
+3
+1500
+3
+1500
+1
+600
+3600
+#
+ED Grab Pull Knee Change Leg<br>&nbsp;&nbsp;Chop Kick
+ED Grab Pull Knee Out Leg<br>&nbsp;&nbsp;Sweep
+ED Grab Pull Knee Two Elbows<br>&nbsp;&nbsp;Arm
+Half Stance
+Horse Stance
+Static Triple Kick
+Iron Arms
+#
+33
+34
+35
+88
+87
+84
+775
+#
+20
+25
+25
+25
+25
+25
+25
+#
+2020-11-21
+
+##
 1
 Forms
 1
