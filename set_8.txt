@@ -1,11 +1,8 @@
-3
+2
+Fitness
 Energy Drills
-Leg Cond.
-Iron Body
-3
-1500
-3
-1500
 1
-600
-3600
+1800
+5
+2400
+4200
