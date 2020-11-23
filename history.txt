@@ -1,5 +1,41 @@
 ##
 3
+Techniques
+Fitness
+Leg Cond.
+4
+2400
+1
+1200
+1
+600
+4200
+#
+Block Hook Chop Arm Out Chop<br>&nbsp;&nbsp;Block RKick
+Block Hook Chop Arm Out Chop<br>&nbsp;&nbsp;Divert FKic
+Block Hook Chop Arm Out Chop<br>&nbsp;&nbsp;Divert RKic
+Combat Drill Trap Push Close<br>&nbsp;&nbsp;The Gap
+Jump Rope: Single Under
+Light Static Stretching
+#
+167
+168
+169
+157
+883
+774
+#
+25
+25
+25
+15
+25
+25
+#
+2020-11-23
+
+##
+3
 Energy Drills
 Leg Cond.
 Iron Body
