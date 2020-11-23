@@ -93,7 +93,7 @@ Block Chop Kick with Shin
 Block 2x Hook H & Uppercut
 Block Hook Low
 Block Punch with Fook & Shift
-Block Round Kick with Shin
+Block Round Kick with Out Shin
 Block Side Kick with Shin
 Block Two Round Kick with Shin
 Bong
@@ -826,7 +826,7 @@ Static Side Kick
 Shift Block High & Low with Palm
 Chain Punch Side Kick High
 Chain Punch Side Kick on Thigh
-Knee Block on Round Kick
+Block Round Kick with In Shin
 Step Forward with Weight on Core
 Step Forward Changing Side with Weight on Back
 Step Forward All Kicks with Weight on Back
