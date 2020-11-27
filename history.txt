@@ -44,7 +44,7 @@ Iron Body
 Bullworker: Back, Chest,<br>&nbsp;&nbsp;Biceps, Abs
 Iron Shirt
 #
-876
+2
 777
 #
 25

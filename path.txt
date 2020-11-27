@@ -50,7 +50,7 @@
 /media/videos/WingChun/Level_1_Apprentice/Energy Drills/drill_techs/Punch Drill Both Hand Grab/PD Both Grabbed Cross Release Push.mp4
 /media/videos/WingChun/Level_1_Apprentice/Energy Drills/drill_techs/Punch Drill Both Hand Grab/PD Grab Both In Leg Sweep Side Kick.mp4
 /media/videos/WingChun/Level_1_Apprentice/Energy Drills/drill_techs/Punch Drill Both Hand Grab/PD Both Grabbed In Leg Sweep.mp4
-/media/videos/WingChun/Level_1_Apprentice/Energy Drills/drill_techs/Punch Drill Both Hand Grab/PD Both Grabbed Out Leg Sweep.mp4
+/media/videos/WingChun/Level_1_Apprentice/Energy Drills/drill_techs/Punch Drill Both Hand Grab/PD Grab Both Out Leg Sweep.mp4
 /media/videos/WingChun/Level_1_Apprentice/Energy Drills/drill_techs/Sideline/Crank/PD Grab Neck Crank.mp4
 /media/videos/WingChun/Level_1_Apprentice/Energy Drills/drill_techs/Sideline/Crank/PD Grab Rib Crank.mp4
 /media/videos/WingChun/Level_1_Apprentice/Energy Drills/drill_techs/Sideline/Grab/PD Break Arm.mp4
@@ -874,10 +874,6 @@
 /media/videos/WingChun/Level_3_Master/Close The Gap/weapon/Weapon Stick Training/Block Stick Straight Stab Divert Close The Gap.mp4
 /media/videos/Fitness/Running.mp4
 /media/videos/Fitness/Aerobic/Swimming.mp4
-/media/videos/Fitness/Muscle/Bullworker: Back-Chest-Biceps-Abs.mp4
-/media/videos/Fitness/Muscle/Bullworker: Chest-Biceps-Abs.mp4
-/media/videos/Fitness/Muscle/Bullworker: Legs-Biceps-Back.mp4
-/media/videos/Fitness/Muscle/Bullworker: Triceps-Shoulders-Legs.mp4
 /media/videos/Fitness/Muscle/Push Up.mp4
 /media/videos/Fitness/Muscle/Sit Up.mp4
 /media/videos/Fitness/Muscle/Sumo Squat.mp4

@@ -50,7 +50,7 @@ PD Both Grabbed Cross Release Palm High
 PD Both Grabbed Cross Release Push
 PD Grab Both In Leg Sweep Side Kick
 PD Both Grabbed In Leg Sweep
-PD Both Grabbed Out Leg Sweep
+PD Grab Both Out Leg Sweep
 PD Grab Neck Crank
 PD Grab Rib Crank
 PD Break Arm
@@ -874,10 +874,6 @@ Block Stick Straight Stab Divert Close The Gap Push
 Block Stick Straight Stab Divert Close The Gap
 Running
 Swimming
-Bullworker: Back, Chest, Biceps, Abs
-Bullworker: Chest, Biceps, Abs
-Bullworker: Legs, Biceps, Back
-Bullworker: Triceps, Shoulders, Legs
 Push Up
 Sit Up
 Sumo Squat
