@@ -1,6 +1,7 @@
-Block Hook Chop Arm Out Chop<br>&nbsp;&nbsp;Divert SKic
-Block Hook High Chop Arm<br>&nbsp;&nbsp;Double Chop
-Combat Drill Trap Push Close<br>&nbsp;&nbsp;The Gap
-ED Grab Pull Knee
-ED Grab Pull Knee Change Leg<br>&nbsp;&nbsp;Chop Kick
-PD Grab Both Out Leg Sweep
+Block Jab Stun Chop Kick Side<br>&nbsp;&nbsp;Kick
+Stun Chop Kick Neck Crank
+Stun Round Kick High Chain<br>&nbsp;&nbsp;Punch
+Block Hook Chop Arm Out Chop<br>&nbsp;&nbsp;Block RKick
+Block Hook High Chop Arm
+Block Hook High Chop Arm Out<br>&nbsp;&nbsp;Chop
+Static Stretching

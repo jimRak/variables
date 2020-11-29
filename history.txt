@@ -1,4 +1,43 @@
 ##
+3
+Close The Gap
+Techniques
+Leg Cond.
+3
+1500
+3
+1500
+1
+1200
+4200
+#
+Block Jab Stun Chop Kick Side<br>&nbsp;&nbsp;Kick
+Stun Chop Kick Neck Crank
+Stun Round Kick High Chain<br>&nbsp;&nbsp;Punch
+Block Hook Chop Arm Out Chop<br>&nbsp;&nbsp;Block RKick
+Block Hook High Chop Arm
+Block Hook High Chop Arm Out<br>&nbsp;&nbsp;Chop
+Static Stretching
+#
+17
+20
+21
+167
+180
+179
+418
+#
+25
+25
+25
+25
+25
+25
+25
+#
+2020-11-29
+
+##
 2
 Techniques
 Energy Drills
