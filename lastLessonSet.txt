@@ -1,11 +1,8 @@
-3
-Close The Gap
-Techniques
-Leg Cond.
-3
-1500
-3
-1500
+2
+Fitness
+Iron Body
+1
+2100
 1
 1200
-4200
+3300

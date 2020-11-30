@@ -1,7 +1,2 @@
-Block Jab Stun Chop Kick Side<br>&nbsp;&nbsp;Kick
-Stun Chop Kick Neck Crank
-Stun Round Kick High Chain<br>&nbsp;&nbsp;Punch
-Block Hook Chop Arm Out Chop<br>&nbsp;&nbsp;Block RKick
-Block Hook High Chop Arm
-Block Hook High Chop Arm Out<br>&nbsp;&nbsp;Chop
-Static Stretching
+Jump Rope 3
+Iron Arms
