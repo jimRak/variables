@@ -1,6 +1,45 @@
 ##
 2
 Forms
+Energy Drills
+5
+1200
+3
+1800
+3000
+#
+1) Siu Lim Tao
+2) Chum Kiu
+3) Biu Jee
+4) Mook Yan Jong
+6) Pole Form
+ED Grab Pull Knee Out Leg<br>&nbsp;&nbsp;Sweep
+PD Grab Both In Leg Sweep
+PD Grab Both In Leg Sweep<br>&nbsp;&nbsp;Side Kick
+#
+0
+1
+2
+3
+880
+34
+51
+50
+#
+25
+25
+25
+25
+25
+25
+25
+25
+#
+2020-12-21
+
+##
+2
+Forms
 Fitness
 5
 1800
@@ -949,40 +988,4 @@ Iron Legs
 0
 #
 2020-08-25
-
-##
-3
-Close The Gap
-Leg Cond.
-Iron Body
-4
-2400
-1
-1200
-1
-600
-4200
-#
-Stepping Behind Opponent
-Stepping Forward Chain Punch
-Stepping Forward Chop Kick
-Stepping Forward Front Kick
-Static Stretching
-Iron Legs
-#
-8
-10
-14
-15
-419
-777
-#
-25
-25
-25
-25
-25
-0
-#
-2020-07-18
 
