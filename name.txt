@@ -49,7 +49,7 @@ PD With Stepping
 PD Both Grabbed Cross Release Palm High
 PD Both Grabbed Cross Release Push
 PD Grab Both In Leg Sweep Side Kick
-PD Both Grabbed In Leg Sweep
+PD Grab Both In Leg Sweep
 PD Grab Both Out Leg Sweep
 PD Grab Neck Crank
 PD Grab Rib Crank
