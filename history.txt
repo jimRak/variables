@@ -1,4 +1,37 @@
 ##
+2
+Techniques
+Leg Cond.
+3
+1800
+3
+1500
+3300
+#
+Block Hook Chop Arm Out Chop<br>&nbsp;&nbsp;Divert SKic
+Chop Arm Block Hook High
+Chop Arm Block Hook High Chop<br>&nbsp;&nbsp;Arm
+Combining Stances
+Half Stance
+Siu Lim Tao
+#
+170
+187
+186
+90
+88
+85
+#
+25
+25
+25
+25
+25
+25
+#
+2020-12-24
+
+##
 3
 Close The Gap
 Leg Cond.
@@ -943,46 +976,4 @@ Single Leg Balance on Pole
 25
 #
 2020-09-09
-
-##
-2
-Forms
-Techniques
-5
-1200
-4
-2400
-3600
-#
-1) Siu Lim Tao
-2) Chum Kiu
-3) Biu Jee
-4) Mook Yan Jong
-5) Qi Gong Form
-Block Two Round Kick Low Side<br>&nbsp;&nbsp;Kick
-Block Two Round Kick Low<br>&nbsp;&nbsp;Front Kick
-Block Two Round Kick Low<br>&nbsp;&nbsp;Round Kick
-Shin Block Round Kick Low
-#
-0
-1
-2
-3
-4
-203
-201
-202
-204
-#
-25
-25
-25
-25
-25
-25
-25
-25
-25
-#
-2020-09-08
 
