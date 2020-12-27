@@ -1,5 +1,32 @@
 ##
 2
+Fitness
+Energy Drills
+1
+2100
+3
+1800
+3900
+#
+HIT: JR, Push up, Sumo Squat,<br>&nbsp;&nbsp;Star Squat, Plank to Push up,<br>&nbsp;&nbsp;Side Plank, Bench Jump, Sit up
+ED Grab Pull Elbow Arm
+ED Grab Pull Knee
+PD Both Grabbed Cross Release<br>&nbsp;&nbsp;Push
+#
+769
+32
+36
+49
+#
+20
+0
+0
+0
+#
+2020-12-27
+
+##
+2
 Techniques
 Leg Cond.
 3
@@ -943,37 +970,4 @@ Iron Legs
 0
 #
 2020-09-13
-
-##
-2
-Techniques
-Leg Cond.
-3
-1800
-3
-1800
-3600
-#
-Block Round Kick Low & Double<br>&nbsp;&nbsp;Punch Grab Leg
-Block Side Kick & Punch & Hook
-Block Two Round Kick Low<br>&nbsp;&nbsp;Front Kick
-Balance on Wheel & Kick
-Knee Block Opp on Ground
-Single Leg Balance on Pole
-#
-210
-211
-201
-819
-822
-820
-#
-25
-25
-25
-25
-25
-25
-#
-2020-09-09
 
