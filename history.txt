@@ -1,4 +1,52 @@
 ##
+3
+Energy Drills
+Forms
+Techniques
+2
+1200
+5
+1200
+3
+1800
+4200
+#
+ED Grab Pull Elbow Arm
+PD Both Grabbed Cross Release<br>&nbsp;&nbsp;Push
+1) Siu Lim Tao
+2) Chum Kiu
+3) Biu Jee
+4) Mook Yan Jong
+6) Pole Form
+Block Hook High Chop Arm Out<br>&nbsp;&nbsp;Chop
+Opp Pak Fook Gum Neck Crank
+Opp Pak Fook Gum Neck Crank<br>&nbsp;&nbsp;from Behind
+#
+32
+49
+0
+1
+2
+3
+880
+179
+191
+190
+#
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+#
+2020-12-29
+
+##
 2
 Fitness
 Energy Drills
@@ -948,26 +996,4 @@ Iron Legs
 0
 #
 2020-09-14
-
-##
-2
-Fitness
-Iron Body
-1
-1800
-1
-1200
-3000
-
-#
-Running
-Iron Legs
-#
-874
-776
-#
-25
-0
-#
-2020-09-13
 
