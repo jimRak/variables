@@ -2,10 +2,10 @@
 Energy Drills
 Forms
 Techniques
-3
-1800
+2
+1200
 5
 1200
 3
 1800
-4800
+4200
