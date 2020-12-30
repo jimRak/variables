@@ -1,5 +1,41 @@
 ##
 3
+Close The Gap
+Energy Drills
+Iron Body
+3
+1800
+2
+1200
+1
+600
+3600
+#
+Block Jab Stun Chop Kick Side<br>&nbsp;&nbsp;Kick Round Kick
+Stun Chop Kick Chain Punch
+Stun Round Kick Neck Crank
+ED Grab Pull Knee
+PD In & Out Trap
+Iron Legs
+#
+24
+19
+22
+36
+780
+776
+#
+25
+25
+25
+25
+25
+25
+#
+2020-12-30
+
+##
+3
 Energy Drills
 Forms
 Techniques
@@ -962,38 +998,4 @@ Running
 25
 #
 2020-09-24
-
-##
-2
-Forms
-Iron Body
-5
-1800
-1
-1200
-3000
-
-#
-1) Siu Lim Tao
-2) Chum Kiu
-3) Biu Jee
-4) Mook Yan Jong
-5) Qi Gong Form
-Iron Legs
-#
-0
-1
-2
-3
-4
-776
-#
-25
-25
-25
-25
-25
-0
-#
-2020-09-14
 
