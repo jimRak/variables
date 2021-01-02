@@ -1,4 +1,37 @@
 ##
+2
+Techniques
+Leg Cond.
+3
+1800
+3
+1800
+3600
+#
+Chop Arm Block Hook High Chop<br>&nbsp;&nbsp;Arm
+Opp Pak Fook Gum
+Opp Pak Grab Out Chop Grab<br>&nbsp;&nbsp;Double Chop
+Combining Stances
+Horse Stance
+Static Triple Kick
+#
+186
+192
+193
+90
+87
+84
+#
+25
+25
+25
+25
+25
+25
+#
+2021-01-02
+
+##
 3
 Close The Gap
 Energy Drills
@@ -983,19 +1016,4 @@ Iron Legs
 25
 #
 2020-09-25
-
-##
-1
-Fitness
-1
-2100
-2100
-#
-Running
-#
-874
-#
-25
-#
-2020-09-24
 
