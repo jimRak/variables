@@ -1,5 +1,26 @@
 ##
 2
+Fitness
+Leg Cond.
+1
+1800
+1
+1800
+3600
+#
+Jump Rope 1
+Static Stretching
+#
+771
+418
+#
+25
+25
+#
+2021-01-05
+
+##
+2
 Techniques
 Leg Cond.
 3
@@ -976,44 +997,4 @@ Punch Drill
 25
 #
 2020-10-05
-
-##
-3
-Close The Gap
-Leg Cond.
-Iron Body
-5
-2400
-1
-1200
-1
-600
-4200
-
-#
-Stepping Behind Opponent
-Stepping Chop & Side Kick
-Stepping Forward
-Stepping Forward Changing Side
-Stun All Kicks
-Static Stretching
-Iron Legs
-#
-8
-816
-9
-11
-18
-418
-776
-#
-25
-25
-25
-25
-25
-25
-25
-#
-2020-09-25
 
