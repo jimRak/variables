@@ -1,5 +1,38 @@
 ##
 2
+Techniques
+Energy Drills
+3
+1800
+3
+1800
+3600
+#
+Chop Arm Block Hook High
+Opp Pak Grab Out Chop
+Opp Pak Grab Out Chop Grab<br>&nbsp;&nbsp;Out Chop
+PD Change Side In Trap
+PD In & Out Trap
+PD In Trap  Double In Chop
+#
+187
+195
+194
+781
+780
+782
+#
+25
+25
+25
+25
+25
+25
+#
+2021-01-08
+
+##
+2
 Forms
 Iron Body
 2
@@ -937,43 +970,4 @@ Iron Arms
 25
 #
 2020-10-11
-
-##
-2
-Techniques
-Leg Cond.
-5
-3000
-3
-1800
-4800
-#
-Block Punch & Uppercut & Hook
-Block Punch Cover Hook
-Block Solid Two Punch & Hook<br>&nbsp;&nbsp;& Uppercut
-Solid Block Double Punch
-Solid Block Punch
-Knee Block Opp on Ground
-Side Stance
-Walk on Poles
-#
-213
-214
-215
-132
-133
-822
-86
-821
-#
-15
-25
-25
-25
-25
-25
-25
-25
-#
-2020-10-10
 
