@@ -1,4 +1,43 @@
 ##
+3
+Close The Gap
+Techniques
+Leg Cond.
+3
+1500
+3
+1500
+1
+600
+3600
+#
+Divert Front Kick Chain Punch
+Divert Side Kick Chain Punch
+Stun Round Kick Neck Crank
+Cover Front Kick to Head from<br>&nbsp;&nbsp;Knees
+Cover Groin & Head from Back
+Opp Pak Fook Gum Neck Crank<br>&nbsp;&nbsp;from Behind
+Light Static Stretching
+#
+5
+7
+22
+224
+225
+190
+774
+#
+25
+25
+25
+25
+25
+25
+25
+#
+2021-01-09
+
+##
 2
 Techniques
 Energy Drills
@@ -948,26 +987,4 @@ Iron Shirt
 25
 #
 2020-10-13
-
-##
-2
-Fitness
-Iron Body
-1
-1800
-1
-1200
-3000
-
-#
-HIT: JR, Push up, Sumo Squat, Star Squat, Plank to Push up, Side Plank, Bench Jump, Sit up
-Iron Arms
-#
-769
-775
-#
-25
-25
-#
-2020-10-11
 
