@@ -1,5 +1,44 @@
 ##
 2
+Forms
+Energy Drills
+5
+1200
+3
+1800
+3000
+#
+1) Siu Lim Tao
+2) Chum Kiu
+3) Biu Jee
+4) Mook Yan Jong
+6) Pole Form
+PD Grab Both In Leg Sweep<br>&nbsp;&nbsp;Side Kick
+PD In Trap Angle Punch
+PD In Trap Change Hands
+#
+0
+1
+2
+3
+880
+50
+783
+784
+#
+25
+25
+25
+15
+25
+25
+25
+25
+#
+2021-01-13
+
+##
+2
 Fitness
 Iron Body
 1
@@ -939,43 +978,4 @@ Static Stretching
 25
 #
 2020-10-19
-
-##
-2
-Techniques
-Energy Drills
-4
-1800
-4
-1800
-3600
-#
-Block Punch & Uppercut & Hook
-Chain Punch Chop Kick
-Chop Kick Chain Punch
-Side Kick Front Kick
-PD Block Round Kick High
-PD Block Round Kick Low
-PD Grab Pull
-PD Grab Pull with Step
-#
-213
-164
-165
-160
-59
-60
-80
-79
-#
-25
-25
-25
-25
-25
-25
-25
-25
-#
-2020-10-17
 
