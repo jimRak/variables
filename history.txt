@@ -1,4 +1,37 @@
 ##
+3
+Close The Gap
+Leg Cond.
+Iron Body
+3
+1800
+1
+1200
+1
+600
+3600
+#
+Divert Round Kick Chain Punch
+Stun Chop Kick Neck Crank
+Stun Round Kick High Chain<br>&nbsp;&nbsp;Punch
+Static Stretching
+Iron Legs
+#
+6
+20
+21
+418
+776
+#
+25
+25
+25
+25
+25
+#
+2021-01-14
+
+##
 2
 Forms
 Energy Drills
@@ -936,46 +969,4 @@ HIT: JR Squat Climbers Star Crunch Plank Rotation & Knee Burpee Bench Jump Sit u
 25
 #
 2020-10-22
-
-##
-3
-Close The Gap
-Techniques
-Leg Cond.
-4
-1800
-3
-1500
-1
-1200
-4500
-#
-Stepping Behind Opponent
-Stepping Forward Chain Punch
-Stepping Forward Changing Side
-Stepping Forward Punch
-Block Punch & Hook & Uppercut
-Block Solid Two Punch & Hook<br>&nbsp;&nbsp;Low
-Two Punch Round Kick Low
-Static Stretching
-#
-8
-10
-11
-12
-212
-216
-166
-418
-#
-25
-25
-25
-25
-20
-25
-25
-25
-#
-2020-10-19
 
