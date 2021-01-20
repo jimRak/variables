@@ -1,4 +1,64 @@
 ##
+2
+Techniques
+Leg Cond.
+3
+1800
+3
+1800
+3600
+#
+Cover Groin from Back
+Cover Head From Back Roll Out
+Opp Pak Fook Gum Neck Crank
+Combining Stances
+Half Stance
+Horse Stance
+#
+226
+227
+191
+90
+88
+87
+#
+25
+25
+25
+25
+25
+25
+#
+2021-01-20
+
+##
+1
+Forms
+5
+3000
+3000
+#
+1) Siu Lim Tao
+2) Chum Kiu
+3) Biu Jee
+4) Mook Yan Jong
+5) Qi Gong Form
+#
+0
+1
+2
+3
+4
+#
+25
+25
+25
+25
+25
+#
+2021-01-20
+
+##
 3
 Close The Gap
 Leg Cond.
@@ -909,64 +969,4 @@ Block Two Hook High
 25
 #
 2020-10-24
-
-##
-2
-Forms
-Energy Drills
-5
-1200
-5
-2400
-3600
-#
-1) Siu Lim Tao
-2) Chum Kiu
-3) Biu Jee
-4) Mook Yan Jong
-5) Qi Gong Form
-PD All Kicks
-PD Block Round Kick Low
-PD Grab Pull with Step
-Rolling Wrist
-Single Hand Chi Sao
-#
-0
-1
-2
-3
-4
-58
-60
-79
-778
-779
-#
-25
-25
-25
-20
-25
-25
-25
-25
-25
-25
-#
-2020-10-23
-
-##
-1
-Fitness
-1
-2100
-2100
-#
-HIT: JR Squat Climbers Star Crunch Plank Rotation & Knee Burpee Bench Jump Sit up
-#
-770
-#
-25
-#
-2020-10-22
 
