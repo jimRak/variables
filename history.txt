@@ -1,5 +1,32 @@
 ##
 2
+Fitness
+Energy Drills
+1
+1800
+3
+1800
+3600
+#
+Jump Rope 2
+PD Change Side In Trap
+PD In Trap Double Punch
+PD In Trap Elbow Chest Out<br>&nbsp;&nbsp;Chop
+#
+772
+781
+785
+786
+#
+25
+25
+25
+25
+#
+2021-01-22
+
+##
+2
 Techniques
 Leg Cond.
 3
@@ -942,31 +969,4 @@ Iron Legs
 25
 #
 2020-10-27
-
-##
-1
-Techniques
-5
-3000
-3000
-#
-Block 2x Punch & 2x Hook H &<br>&nbsp;&nbsp;2x Uppercut
-Block 2x Punch & Hook L & H &<br>&nbsp;&nbsp;2x Uppercut
-Block Solid Two Punch & Hook
-Block Two Hook & Uppercut
-Block Two Hook High
-#
-212
-213
-217
-218
-219
-#
-25
-25
-25
-25
-25
-#
-2020-10-24
 
