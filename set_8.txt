@@ -2,7 +2,7 @@
 Fitness
 Energy Drills
 1
-2100
+1800
 3
 1800
-3900
+3600
