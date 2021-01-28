@@ -141,7 +141,7 @@ Iron Body
 3600
 #
 Divert Round Kick Chain Punch
-Stun Chop Kick Neck Crank
+Stun Chop Kick Fook Neck Crank
 Stun Round Kick High Chain<br>&nbsp;&nbsp;Punch
 Static Stretching
 Iron Legs
@@ -274,7 +274,7 @@ Opp Pak Grab Out Chop
 Opp Pak Grab Out Chop Grab<br>&nbsp;&nbsp;Out Chop
 PD Change Side In Trap
 PD In & Out Trap
-PD In Trap  Double In Chop
+PD In Trap  Double Palm High
 #
 187
 195
@@ -384,7 +384,7 @@ Iron Body
 3600
 #
 Block Jab Stun Chop Kick Side<br>&nbsp;&nbsp;Kick Round Kick
-Stun Chop Kick Chain Punch
+Block Jab Stun Chop Kick Chain Punch
 Stun Round Kick Neck Crank
 ED Grab Pull Knee
 PD In & Out Trap
@@ -529,7 +529,7 @@ Iron Body
 #
 Block Jab Stun Chop Kick Side<br>&nbsp;&nbsp;Kick
 Stun Round Kick Neck Crank
-Stun Side Kick Neck Crank
+Stun Side Kick Fook Neck Crank
 Static Stretching
 Iron Shirt
 #
@@ -654,7 +654,7 @@ Leg Cond.
 4200
 #
 Block Jab Stun Chop Kick Side<br>&nbsp;&nbsp;Kick
-Stun Chop Kick Neck Crank
+Stun Chop Kick Fook Neck Crank
 Stun Round Kick High Chain<br>&nbsp;&nbsp;Punch
 Block Hook Chop Arm Out Chop<br>&nbsp;&nbsp;Block RKick
 Block Hook High Chop Arm

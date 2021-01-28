@@ -17,11 +17,11 @@ Stepping Forward Front Kick
 Stepping Forward Round Kick
 Block Jab Stun Chop Kick Side Kick
 Stun All Kicks
-Stun Chop Kick Chain Punch
-Stun Chop Kick Neck Crank
+Block Jab Stun Chop Kick Chain Punch
+Stun Chop Kick Fook Neck Crank
 Stun Round Kick High Chain Punch
 Stun Round Kick Neck Crank
-Stun Side Kick Neck Crank
+Stun Side Kick Fook Neck Crank
 Block Jab Stun Chop Kick Side Kick Round Kick
 Elbow Drill
 Elbow Drill Change Side
@@ -780,7 +780,7 @@ Rolling Wrist
 Single Hand Chi Sao
 PD In & Out Trap
 PD Change Side In Trap
-PD In Trap  Double In Chop
+PD In Trap  Double Palm High
 PD In Trap Angle Punch
 PD In Trap Change Hands
 PD In Trap Double Punch
