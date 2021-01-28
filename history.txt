@@ -1,4 +1,40 @@
 ##
+3
+Close The Gap
+Energy Drills
+Iron Body
+3
+1800
+2
+1200
+1
+600
+3600
+#
+Block Jab Stun Chop Kick Side<br>&nbsp;&nbsp;Kick Round Kick
+Block Jab Stun Chop Kick<br>&nbsp;&nbsp;Chain Punch
+Stun Side Kick Fook Neck Crank
+PD In Trap  Double Palm High
+PD In Trap Elbow Chest
+Iron Arms
+#
+24
+19
+23
+782
+787
+775
+#
+25
+25
+25
+25
+25
+25
+#
+2021-01-28
+
+##
 2
 Forms
 Techniques
@@ -933,43 +969,4 @@ Tan
 25
 #
 2020-11-08
-
-##
-2
-Techniques
-Leg Cond.
-5
-2400
-3
-1800
-4200
-#
-Block Punch Cover Hook
-Block Solid Two Punch & Hook<br>&nbsp;&nbsp;& Uppercut
-Block Two Punch with Shift &<br>&nbsp;&nbsp;Hook & Uppercut
-Destroy Arms: 2x Punch & Hook
-Destroy Arms: 2x Punch & Hook<br>&nbsp;&nbsp;& Uppercut
-Balance on Wheel & Kick
-Goat Stance
-Single Leg Balance on Pole
-#
-214
-215
-222
-221
-220
-819
-89
-820
-#
-25
-25
-25
-25
-25
-25
-25
-20
-#
-2020-10-28
 
