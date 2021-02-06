@@ -1,8 +1,7 @@
-2
+1
 Leg Cond.
-Iron Body
-3
-1800
+All
+All
 1
 1200
-3000
+1200

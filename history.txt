@@ -3,6 +3,9 @@
 Close The Gap
 Energy Drills
 Iron Body
+All
+All
+All
 3
 1800
 2
@@ -38,6 +41,8 @@ Iron Shirt
 2
 Forms
 Techniques
+All
+All
 5
 1200
 4
@@ -81,6 +86,9 @@ Opp Pak Grab Out Chop Grab<br>&nbsp;&nbsp;Out Chop
 Close The Gap
 Energy Drills
 Iron Body
+All
+All
+All
 3
 1800
 2
@@ -116,6 +124,8 @@ Iron Arms
 2
 Forms
 Techniques
+All
+All
 5
 1200
 4
@@ -158,6 +168,8 @@ Opp Pak Grab Out Chop Grab<br>&nbsp;&nbsp;Double Chop
 2
 Fitness
 Energy Drills
+All
+All
 1
 1800
 3
@@ -185,6 +197,8 @@ PD In Trap Elbow Chest Out<br>&nbsp;&nbsp;Chop
 2
 Techniques
 Leg Cond.
+All
+All
 3
 1800
 3
@@ -217,6 +231,7 @@ Horse Stance
 ##
 1
 Forms
+All
 5
 3000
 3000
@@ -246,6 +261,9 @@ Forms
 Close The Gap
 Leg Cond.
 Iron Body
+All
+All
+All
 3
 1800
 1
@@ -278,6 +296,8 @@ Iron Legs
 2
 Forms
 Energy Drills
+All
+All
 5
 1200
 3
@@ -317,6 +337,8 @@ PD In Trap Change Hands
 2
 Fitness
 Iron Body
+All
+All
 1
 2100
 1
@@ -339,6 +361,9 @@ Iron Shirt
 Close The Gap
 Techniques
 Leg Cond.
+All
+All
+All
 3
 1500
 3
@@ -377,6 +402,8 @@ Light Static Stretching
 2
 Techniques
 Energy Drills
+All
+All
 3
 1800
 3
@@ -410,6 +437,8 @@ PD In Trap  Double Palm High
 2
 Forms
 Iron Body
+All
+All
 2
 2400
 1
@@ -434,6 +463,8 @@ Iron Arms
 2
 Fitness
 Leg Cond.
+All
+All
 1
 1800
 1
@@ -455,6 +486,8 @@ Static Stretching
 2
 Techniques
 Leg Cond.
+All
+All
 3
 1800
 3
@@ -489,6 +522,9 @@ Static Triple Kick
 Close The Gap
 Energy Drills
 Iron Body
+All
+All
+All
 3
 1800
 2
@@ -525,6 +561,9 @@ Iron Legs
 Energy Drills
 Forms
 Techniques
+All
+All
+All
 2
 1200
 5
@@ -572,6 +611,8 @@ Opp Pak Fook Gum Neck Crank<br>&nbsp;&nbsp;from Behind
 2
 Fitness
 Energy Drills
+All
+All
 1
 2100
 3
@@ -599,6 +640,8 @@ PD Both Grabbed Cross Release<br>&nbsp;&nbsp;Push
 2
 Techniques
 Leg Cond.
+All
+All
 3
 1800
 3
@@ -633,6 +676,9 @@ Siu Lim Tao
 Close The Gap
 Leg Cond.
 Iron Body
+All
+All
+All
 3
 1800
 1
@@ -665,6 +711,8 @@ Iron Shirt
 2
 Forms
 Energy Drills
+All
+All
 5
 1200
 3
@@ -704,6 +752,8 @@ PD Grab Both In Leg Sweep<br>&nbsp;&nbsp;Side Kick
 2
 Forms
 Fitness
+All
+All
 5
 1800
 1
@@ -737,6 +787,8 @@ Jump Rope 1
 2
 Fitness
 Iron Body
+All
+All
 1
 2100
 1
@@ -759,6 +811,9 @@ Iron Arms
 Close The Gap
 Techniques
 Leg Cond.
+All
+All
+All
 3
 1500
 3
@@ -797,6 +852,8 @@ Static Stretching
 2
 Techniques
 Energy Drills
+All
+All
 3
 1800
 3
@@ -830,6 +887,8 @@ PD Grab Both Out Leg Sweep
 2
 Forms
 Iron Body
+All
+All
 5
 2400
 1
@@ -863,6 +922,8 @@ Iron Legs
 2
 Fitness
 Iron Body
+All
+All
 1
 2100
 1
@@ -885,6 +946,9 @@ Iron Shirt
 Techniques
 Fitness
 Leg Cond.
+All
+All
+All
 4
 2400
 1
@@ -921,6 +985,9 @@ Light Static Stretching
 Energy Drills
 Leg Cond.
 Iron Body
+All
+All
+All
 3
 1500
 3
@@ -958,6 +1025,7 @@ Iron Arms
 ##
 1
 Forms
+All
 1
 1800
 1800
@@ -969,4 +1037,20 @@ Forms
 25
 #
 2020-11-16
+
+##
+1
+Forms
+All
+1
+1800
+1800
+#
+1) Siu Lim Tao
+#
+0
+#
+25
+#
+2020-11-13
 

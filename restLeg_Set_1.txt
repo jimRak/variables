@@ -1,8 +1,6 @@
-2
-Energy Drills
-Iron Body
-4
-2400
 1
-1200
-3600
+Techniques
+All
+5
+3000
+3000

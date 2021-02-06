@@ -1,11 +1,6 @@
-3
-Close The Gap
-Energy Drills
-Iron Body
-3
-1800
-2
-1200
 1
-600
-3600
+Close The Gap
+All
+3
+1200
+1200
