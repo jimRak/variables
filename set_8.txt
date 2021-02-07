@@ -1,6 +1,10 @@
-1
+2
 Fitness
+Iron Body
+All
 All
 1
-1800
-1800
+600
+1
+600
+1200

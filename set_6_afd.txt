@@ -1,7 +1,10 @@
-1
+2
 Fitness
+Energy Drills
 All
 All
 1
 1200
-1200
+3
+1800
+3000
