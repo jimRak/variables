@@ -1,4 +1,38 @@
 ##
+2
+Techniques
+Leg Cond.
+3
+1800
+3
+1800
+3600
+
+#
+Block Round Kick Low Divert<br>&nbsp;&nbsp;Round Kick
+Cover Front Kick to Head from<br>&nbsp;&nbsp;Knees
+Cover Side Kick to Head from<br>&nbsp;&nbsp;Knees
+Half Stance
+Horse Stance
+Static Triple Kick
+#
+233
+224
+232
+88
+87
+84
+#
+25
+25
+25
+25
+25
+15
+#
+2021-02-07
+
+##
 3
 Close The Gap
 Energy Drills
@@ -1021,36 +1055,4 @@ Iron Arms
 25
 #
 2020-11-21
-
-##
-1
-Forms
-All
-1
-1800
-1800
-#
-2) Chum Kiu
-#
-1
-#
-25
-#
-2020-11-16
-
-##
-1
-Forms
-All
-1
-1800
-1800
-#
-1) Siu Lim Tao
-#
-0
-#
-25
-#
-2020-11-13
 
