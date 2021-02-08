@@ -6,8 +6,9 @@ Leg Cond.
 1800
 3
 1800
+1
+1
 3600
-
 #
 Block Round Kick Low Divert<br>&nbsp;&nbsp;Round Kick
 Cover Front Kick to Head from<br>&nbsp;&nbsp;Knees
@@ -46,6 +47,9 @@ All
 1200
 1
 600
+1
+1
+1
 3600
 #
 Block Jab Stun Chop Kick Side<br>&nbsp;&nbsp;Kick
@@ -81,6 +85,8 @@ All
 1200
 4
 2400
+1
+1
 3600
 #
 1) Siu Lim Tao
@@ -129,6 +135,9 @@ All
 1200
 1
 600
+1
+1
+1
 3600
 #
 Block Jab Stun Chop Kick Side<br>&nbsp;&nbsp;Kick Round Kick
@@ -164,6 +173,8 @@ All
 1200
 4
 2400
+1
+1
 3600
 #
 1) Siu Lim Tao
@@ -208,6 +219,8 @@ All
 1800
 3
 1800
+1
+1
 3600
 #
 Jump Rope 2
@@ -237,6 +250,8 @@ All
 1800
 3
 1800
+1
+1
 3600
 #
 Cover Groin from Back
@@ -268,6 +283,7 @@ Forms
 All
 5
 3000
+1
 3000
 #
 1) Siu Lim Tao
@@ -304,6 +320,9 @@ All
 1200
 1
 600
+1
+1
+1
 3600
 #
 Divert Round Kick Chain Punch
@@ -336,6 +355,8 @@ All
 1200
 3
 1800
+1
+1
 3000
 #
 1) Siu Lim Tao
@@ -377,6 +398,8 @@ All
 2100
 1
 1200
+1
+1
 3300
 #
 HIT: JR Squat Climbers Star<br>&nbsp;&nbsp;Crunch Plank Rotation & Knee<br>&nbsp;&nbsp;Burpee Bench Jump Sit up
@@ -404,6 +427,9 @@ All
 1500
 1
 600
+1
+1
+1
 3600
 #
 Divert Front Kick Chain Punch
@@ -442,6 +468,8 @@ All
 1800
 3
 1800
+1
+1
 3600
 #
 Chop Arm Block Hook High
@@ -477,6 +505,8 @@ All
 2400
 1
 600
+1
+1
 3000
 #
 6) Pole Form
@@ -503,6 +533,8 @@ All
 1800
 1
 1800
+1
+1
 3600
 #
 Jump Rope 1
@@ -526,6 +558,8 @@ All
 1800
 3
 1800
+1
+1
 3600
 #
 Chop Arm Block Hook High Chop<br>&nbsp;&nbsp;Arm
@@ -565,6 +599,9 @@ All
 1200
 1
 600
+1
+1
+1
 3600
 #
 Block Jab Stun Chop Kick Side<br>&nbsp;&nbsp;Kick Round Kick
@@ -604,6 +641,9 @@ All
 1200
 3
 1800
+1
+1
+1
 4200
 #
 ED Grab Pull Elbow Arm
@@ -651,9 +691,11 @@ All
 2100
 3
 1800
+1
+1
 3900
 #
-HIT: JR, Push up, Sumo Squat,<br>&nbsp;&nbsp;Star Squat, Plank to Push up,<br>&nbsp;&nbsp;Side Plank, Bench Jump, Sit up
+HIT: JR Push up Sumo Squat<br>&nbsp;&nbsp;Star Squat Plank to Push up<br>&nbsp;&nbsp;Side Plank Bench Jump Sit up
 ED Grab Pull Elbow Arm
 ED Grab Pull Knee
 PD Both Grabbed Cross Release<br>&nbsp;&nbsp;Push
@@ -680,6 +722,8 @@ All
 1800
 3
 1500
+1
+1
 3300
 #
 Block Hook Chop Arm Out Chop<br>&nbsp;&nbsp;Divert SKic
@@ -719,6 +763,9 @@ All
 1200
 1
 600
+1
+1
+1
 3600
 #
 Block Jab Stun Chop Kick Side<br>&nbsp;&nbsp;Kick
@@ -751,6 +798,8 @@ All
 1200
 3
 1800
+1
+1
 3000
 #
 1) Siu Lim Tao
@@ -792,6 +841,8 @@ All
 1800
 1
 1800
+1
+1
 3600
 #
 1) Siu Lim Tao
@@ -827,6 +878,8 @@ All
 2100
 1
 1200
+1
+1
 3300
 #
 Jump Rope 3
@@ -854,6 +907,9 @@ All
 1500
 1
 1200
+1
+1
+1
 4200
 #
 Block Jab Stun Chop Kick Side<br>&nbsp;&nbsp;Kick
@@ -892,6 +948,8 @@ All
 1800
 3
 1800
+1
+1
 3600
 #
 Block Hook Chop Arm Out Chop<br>&nbsp;&nbsp;Divert SKic
@@ -927,6 +985,8 @@ All
 2400
 1
 1200
+1
+1
 3600
 #
 1) Siu Lim Tao
@@ -962,9 +1022,11 @@ All
 2100
 1
 1200
+1
+1
 3300
 #
-Bullworker: Back, Chest,<br>&nbsp;&nbsp;Biceps, Abs
+Bullworker: Back Chest<br>&nbsp;&nbsp;Biceps Abs
 Iron Shirt
 #
 2
@@ -989,6 +1051,9 @@ All
 1200
 1
 600
+1
+1
+1
 4200
 #
 Block Hook Chop Arm Out Chop<br>&nbsp;&nbsp;Block RKick
@@ -1028,6 +1093,9 @@ All
 1500
 1
 600
+1
+1
+1
 3600
 #
 ED Grab Pull Knee Change Leg<br>&nbsp;&nbsp;Chop Kick
