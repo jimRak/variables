@@ -1,5 +1,39 @@
 ##
 2
+Fitness
+Leg Cond.
+All
+All
+4
+2400
+1
+600
+3
+1
+3000
+#
+Jump Rope: Single Under
+Push Up
+Sit Up
+Sumo Squat
+Light Static Stretching
+#
+879
+876
+877
+878
+774
+#
+25
+25
+25
+25
+25
+#
+2021-02-09
+
+##
+2
 Techniques
 Leg Cond.
 3
@@ -1078,49 +1112,4 @@ Light Static Stretching
 25
 #
 2020-11-23
-
-##
-3
-Energy Drills
-Leg Cond.
-Iron Body
-All
-All
-All
-3
-1500
-3
-1500
-1
-600
-1
-1
-1
-3600
-#
-ED Grab Pull Knee Change Leg<br>&nbsp;&nbsp;Chop Kick
-ED Grab Pull Knee Out Leg<br>&nbsp;&nbsp;Sweep
-ED Grab Pull Knee Two Elbows<br>&nbsp;&nbsp;Arm
-Half Stance
-Horse Stance
-Static Triple Kick
-Iron Arms
-#
-33
-34
-35
-88
-87
-84
-775
-#
-20
-25
-25
-25
-25
-25
-25
-#
-2020-11-21
 
