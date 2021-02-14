@@ -1,5 +1,51 @@
 ##
 2
+Forms
+Energy Drills
+All
+All
+5
+1200
+4
+2400
+1
+1
+3600
+#
+1) Siu Lim Tao
+2) Chum Kiu
+3) Biu Jee
+4) Mook Yan Jong
+6) Pole Form
+PD In Trap Double Punch
+PD In Trap Elbow Chest Out<br>&nbsp;&nbsp;Chop
+PD In Trap In Chop
+PD In Trap In Chop Out Chop<br>&nbsp;&nbsp;Head Lock
+#
+0
+1
+2
+3
+880
+785
+786
+790
+789
+#
+25
+25
+25
+25
+25
+25
+0
+25
+25
+#
+2021-02-14
+
+##
+2
 Fitness
 Leg Cond.
 All
@@ -1070,46 +1116,4 @@ Iron Shirt
 25
 #
 2020-11-24
-
-##
-3
-Techniques
-Fitness
-Leg Cond.
-All
-All
-All
-4
-2400
-1
-1200
-1
-600
-1
-1
-1
-4200
-#
-Block Hook Chop Arm Out Chop<br>&nbsp;&nbsp;Block RKick
-Block Hook Chop Arm Out Chop<br>&nbsp;&nbsp;Divert FKic
-Block Hook Chop Arm Out Chop<br>&nbsp;&nbsp;Divert RKic
-Combat Drill Trap Push Close<br>&nbsp;&nbsp;The Gap
-Jump Rope: Single Under
-Light Static Stretching
-#
-167
-168
-169
-157
-879
-774
-#
-25
-25
-25
-15
-25
-25
-#
-2020-11-23
 
