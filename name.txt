@@ -226,7 +226,7 @@ Cover Front Kick to Head from Knees
 Cover Groin & Head from Back
 Cover Groin from Back
 Cover Head From Back Roll Out
-Cover Head from Back
+Cover Side Kick to Head from Back
 Cover Rib Cage from Back Roll Out
 Cover Head & Rib Cage from Back
 Cover Round Kicks to Head from Knees
@@ -792,7 +792,7 @@ PD In Trap In Chop
 PD In Trap Move In
 PD In Trap Out Chop
 PD In Trap Punch
-PD In Trap Step In
+PD In Trap Step In Push
 PD In Trap Throat Grab Elbow Chest Out Chop
 PD In Trap
 PD In Trap Move In Palm To Chin
