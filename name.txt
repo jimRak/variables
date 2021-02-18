@@ -122,7 +122,7 @@ Pak Side Kick
 Pak
 Palm Block on Kick
 Palm High
-Palm Low
+Palm Middle
 Retreat after Diverted Kick
 Round Kick
 Shift Bong
@@ -879,3 +879,5 @@ Sit Up
 Sumo Squat
 Jump Rope: Single Under
 6) Pole Form
+Palm Low
+ED Grab Pull Knee Chop Kick

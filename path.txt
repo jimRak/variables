@@ -122,7 +122,7 @@
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Basic/Pak.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Basic/Palm Block on Kick.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Basic/Palm High.mp4
-/media/videos/WingChun/Level_1_Apprentice/Techniques/Basic/Palm Low.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Basic/Palm Middle.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Basic/Retreat after Diverted Kick.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Basic/Round Kick.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Basic/Shift Bong.mp4
@@ -879,3 +879,5 @@
 /media/videos/Fitness/Muscle/Sumo Squat.mp4
 /media/videos/Fitness/Jump Rope/Jump Rope: Single Under.mp4
 /media/videos/WingChun/Forms/Pole Form.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Basic/Palm Low.mp4
+/media/videos/WingChun/Level_1_Apprentice/Energy Drills/drill_techs/Elbow Drill Techniques/ED Grab Pull Knee Chop Kick.mp4
