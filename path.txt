@@ -883,9 +883,9 @@
 /media/videos/WingChun/Level_1_Apprentice/Energy Drills/drill_techs/Elbow Drill Techniques/ED Grab Pull Knee Chop Kick.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Head Lock/Defend Head Lock Ear & Throat Compliance.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Head Lock/Defend Head Lock Nose Compliance.mp4
-/media/videos/WingChun/Level_1_Apprentice/Techniques/Head Lock/Defend Push Go Behind Head Lock Bring Down.mp4
-/media/videos/WingChun/Level_1_Apprentice/Techniques/Head Lock/Head Lock from Behind Bring Down Lock Arm.mp4
-/media/videos/WingChun/Level_1_Apprentice/Techniques/Head Lock/Lock Arms from Head Lock Down Position.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Head Lock/Defend Push Go Behind Head Lock Bring Down.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Head Lock/Head Lock from Behind Bring Down Lock Arm.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Head Lock/Lock Arms from Head Lock Down Position.mp4
 /media/videos/WingChun/Level_2_Knight/Techniques/Defending when Downed/Control with Pain Compliance.mp4
 /media/videos/WingChun/Level_2_Knight/Techniques/Defending when Downed/Cover Head from Back Arm Bar Lock.mp4
 /media/videos/WingChun/Level_2_Knight/Techniques/Defending when Downed/Cover Head Throat Compliance Arm Bar Lock.mp4
@@ -904,7 +904,42 @@
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Control Atker/Push Fook Control Arm Bar.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Control Atker/Push Fook Gum Control Shoulder.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Control Atker/Push Fook Gum Go Behind Rare Naked Choke.mp4
-/media/videos/WingChun/Level_1_Apprentice/Techniques/Control Atker/Push Open Center Arm Lock.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Control Atker/Push Open Center Arm Lock.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Control Atker/Push Open Center Out Chop Guillotine.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Defend Grab/Opp Grab Wrist Chop Arm Elbow Chest.mp4
 /media/videos/WingChun/Level_3_Master/Techniques/Counter Atk/Opp Grab Wrist Block Hook Chop Arm Shoulder Bump.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Def Body Grab/Def Both Shirt Grab Chop Release Hammer Back Knee.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Def Body Grab/Def Shirt Grab Punch Reverse Arm & Wrist Lock.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Def Body Grab/Def Shirt Grab Reverse Arm & Wrist & Thumb Lock Go Behind Choke.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Def Body Grab/Def Shirt Grab Thumb & Wrist Lock.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Def Body Grab/Def Shirt Grab with Body Wrist & Arm Lock.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Control Atker/Control Distance with Push.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Control Atker/Push Fook Grab Knee on Chest Push.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Control Atker/Push Fook Grab Pull.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Control Atker/Push Fook Gum Side Push.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Control Atker/Push Open Center Grab Arm Twist.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Control Atker/Push Pull Down Pull Neck Side Push.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Def Body Grab/Def Body Grab from Behind.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Def Body Grab/Def Grab from Behind Reverse Elbow Control Neck Knee on Chest.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Def Body Grab/Def Grab from Front Arm Lock Knee on Chest Elbow on Back.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Head Lock/Def Full Nelson Lock Wrist Lock Reverse Elbow.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Head Lock/Def Guillotine Lock Atk Groin Arm Lock Choke.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Head Lock/Def Head Lock with Throat Compliance Bring Down Arm Lock Hammer.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Head Lock/Def Rare Naked Choke Wrist Lock Control Neck Knee Arm Lock.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Def Body Grab/Def Both Neck Grab from Behind Grab Throat Out Leg Sweep Bring Down Control.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Def Body Grab/Def Both Neck Grab Pull Down Pressure on Throat Bring Down Control.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Def Body Grab/Def Single Throat Grab Pull Down with Elbow Block Hook Elbow H Out Chop Divert Hammer.mp4
+/media/videos/WingChun/Level_1_Apprentice/Close The Gap/Divert/Divert Round Kick Chop Kick.mp4
+/media/videos/WingChun/Level_1_Apprentice/Close The Gap/Divert/Divert Side Kick Round Kick.mp4
+/media/videos/WingChun/Level_1_Apprentice/Close The Gap/Divert/Divert Round Kick Round Kick.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Counter Atk/Pak Punch Groin & Core Out Chop.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Combo Atk/Hand/Pak Punch Ribs Hammer High.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Combo Atk/Hand & Leg/Pak Punch Ribs Round Kick.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Combo Atk/Hand/Pak Out Chop Elbow Face Hammer.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Combo Atk/Hand/Pak Out Chop Elbow Shoulder.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Counter Atk/Pak Punch Groin & Core Knee.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Block & Atk/2x Fook on Hook High Elbow Arm Reverse Elbow Chops.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Counter Atk/Gaun on Hook L Up Elbow Chest In Chop Grab Neck Headbutt Up Elbow.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Counter Atk/Gaun on Hook L Up Elbow Chest Out & In Chop Elbow.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Counter Atk/Gaun on Hook L Up Elbow Chest Out & In Chop Grab Neck Knee.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Counter Atk/Gaun on Hook L Up Elbow Chest Out & In Chop.mp4
