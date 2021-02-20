@@ -881,3 +881,20 @@
 /media/videos/WingChun/Forms/Pole Form.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Basic/Palm Low.mp4
 /media/videos/WingChun/Level_1_Apprentice/Energy Drills/drill_techs/Elbow Drill Techniques/ED Grab Pull Knee Chop Kick.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Head Lock/Defend Head Lock Ear & Throat Compliance.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Head Lock/Defend Head Lock Nose Compliance.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Head Lock/Defend Push Go Behind Head Lock Bring Down.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Head Lock/Head Lock from Behind Bring Down Lock Arm.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Head Lock/Lock Arms from Head Lock Down Position.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Defending when Downed/Control with Pain Compliance.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Defending when Downed/Cover Head from Back Arm Bar Lock.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Defending when Downed/Cover Head Throat Compliance Arm Bar Lock.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Basic/Side Cover.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Casual Stance/Casual Stance.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Casual Stance/Doorman Stance.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Casual Stance/Interview Stance.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Atk Points/Elbow Points.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Atk Points/Knee Points.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Atk Points/Pressure Points.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Atk Points/Punch Points.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Combo Atk & Def/Def Punch Atk Punch/Block Jab with Shift & Palm High Out Chop.mp4
