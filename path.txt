@@ -964,3 +964,6 @@
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Basic/Punch Hammer.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Basic/Punch Hook High Hammer.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Basic/Punch Low Hammer.mp4
+/media/videos/WingChun/Level_1_Apprentice/Close The Gap/Divert/Divert Side Kick Punch Cross Slap Push.mp4
+/media/videos/WingChun/Level_1_Apprentice/Close The Gap/stun/Block Jab Stun Round Kick.mp4
+/media/videos/WingChun/Level_1_Apprentice/Close The Gap/stun/Block Jab Stun Side Kick.mp4

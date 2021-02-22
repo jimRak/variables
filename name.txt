@@ -964,3 +964,6 @@ Punch Down Punch Hook High
 Punch Hammer
 Punch Hook High Hammer
 Punch Low Hammer
+Divert Side Kick Punch Cross Slap Push
+Block Jab Stun Round Kick
+Block Jab Stun Side Kick

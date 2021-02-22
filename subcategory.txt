@@ -237,7 +237,7 @@ All
 All
 Ground
 Ground
-All
+Stun
 All
 All
 All
@@ -964,3 +964,6 @@ Basics
 Basics
 Basics
 Basics
+Divert
+Stun
+Stun
