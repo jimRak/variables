@@ -967,3 +967,6 @@
 /media/videos/WingChun/Level_1_Apprentice/Close The Gap/Divert/Divert Side Kick Punch Cross Slap Push.mp4
 /media/videos/WingChun/Level_1_Apprentice/Close The Gap/stun/Block Jab Stun Round Kick.mp4
 /media/videos/WingChun/Level_1_Apprentice/Close The Gap/stun/Block Jab Stun Side Kick.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Combo Atk & Def/Atk Kick & Punch/Retreat from Diverted Front Kick Punch Cross.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Combo Atk & Def/Atk Kick & Punch/Retreat from Diverted Front Kick Punch Uppercut.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Combo Atk & Def/Atk Kick & Punch/Side Kick Punch Hook.mp4

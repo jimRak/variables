@@ -967,3 +967,6 @@ Basics
 Divert
 Stun
 Stun
+All
+All
+All

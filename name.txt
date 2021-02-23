@@ -967,3 +967,6 @@ Punch Low Hammer
 Divert Side Kick Punch Cross Slap Push
 Block Jab Stun Round Kick
 Block Jab Stun Side Kick
+Retreat from Diverted Front Kick Punch Cross
+Retreat from Diverted Front Kick Punch Uppercut
+Side Kick Punch Hook
