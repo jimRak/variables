@@ -970,3 +970,8 @@
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Combo Atk & Def/Atk Kick & Punch/Retreat from Diverted Front Kick Punch Cross.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Combo Atk & Def/Atk Kick & Punch/Retreat from Diverted Front Kick Punch Uppercut.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Combo Atk & Def/Atk Kick & Punch/Side Kick Punch Hook.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Single Hand/Single Hand Punch Down Punch Uppercut.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Single Hand/Single Hand Punch Hook Punch.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Single Hand/Single Hand Punch Uppercut Hammer.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Outside Training/Stepping/Continuous Stepping Forward Chain Punch.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Outside Training/Stepping/Continuous Stepping Forward Punch Fook.mp4

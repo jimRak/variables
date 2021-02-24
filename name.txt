@@ -180,7 +180,7 @@ Block Hook High Chop Arm Double Chop
 Block Hook High Chop Arm Out Chop
 Block Hook High Chop Arm
 Block Punch with Shift Hammer
-Block Two Punch & Hook Chain Punch
+Block Two Punch & Hook & Uppercut Chain Punch
 Block Two Punch & Hook Hammer
 Bong Out Chop Grab Punch Low
 Bong Tan Palm
@@ -970,3 +970,8 @@ Block Jab Stun Side Kick
 Retreat from Diverted Front Kick Punch Cross
 Retreat from Diverted Front Kick Punch Uppercut
 Side Kick Punch Hook
+Single Hand Punch Down Punch Uppercut
+Single Hand Punch Hook Punch
+Single Hand Punch Uppercut Hammer
+Continuous Stepping Forward Chain Punch
+Continuous Stepping Forward Punch Fook
