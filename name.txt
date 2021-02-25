@@ -249,7 +249,7 @@ Block Punch Street
 Round Kick Street
 Side Kick Street
 Block Jab & Atk Block Hook H Divert Go Behind
-Block Jab & Atk Block Hook H Divert Push
+Block Jab & Atk Block Hook H Divert Pull
 Block Jab & Atk Block Hook H Twist
 Block Jab & Atk Block Hook H
 Block Jab & Atk Block Hook L Divert Go Behind
@@ -268,15 +268,15 @@ Moving Target Round Kick Low
 Moving Target Round L & Side Kick H
 Moving Target Side & Round Kick L
 Moving Target Side Kick Low
-Grab Punch L Pull Knee H Push into Wall
-Grab Twist into Fence
+Fake Hand Fook Grab Punch L Pull Knee L Push into Fence
+Fake Hand Fook Grab Twist into Fence
 Pushing
 Twisting
-Grab Punch L Pull Knee L Push into Wall
+Fake Hand Fook Grab Punch L Pull Knee L Push into Wall
 Fook Pull
 Fook Push
 Fook Twist
-Grab Elbow Push into Wall
+Fake Hand Fook Grab Elbow Push into Wall
 Pulling
 Front Kick Def Knee Chain Punch
 Round Kick Out Def Knee Chain Punch
@@ -635,14 +635,11 @@ Ground Control Crucifix Lock
 Ground Control Distance
 Ground Rare Naked Choke
 Take Down from Behind
-Ground Dealing with Throat Grab
 Ground Def Atks Arm Lock
 Ground Fight Transition
-Ground Release from Throat Grab Arm Lock 2
-Ground Release from Throat Grab Arm Lock
+Ground Release from Throat Grab Def Atks Arm Lock
 Take Down with Head & Arm Control
 Take Down with Rare Naked Choke & Pain Compliance
-Ground Rare Naked Choke 2
 2x Pak Def Waist Grab Elbow Spine Control Jaw
 2x Pak Punch Core Front Kick Out & Reverse Chop
 Elbow & Hammer on Fist Fake Hand
@@ -975,4 +972,20 @@ Single Hand Punch Hook Punch
 Single Hand Punch Uppercut Hammer
 Continuous Stepping Forward Chain Punch
 Continuous Stepping Forward Punch Fook
-Moving Target Block Jab
+Block Two Punch Destroy Fist Hammer Arm In Leg Sweep Back Stamp
+Ground Arm Bar Lock
+Ground Def Throat Grab Arm Bar Lock
+Ground Release when Opp on his Back Arm & Head Lock with Thigh
+Ground Release when Opp on his Back
+Def Single Throat Grab
+Pad Work Cover Elbow Chest
+Pad Work Cross & Reverse & Straight Elbow
+Pad Work In & Out Hammer
+Pad Work Knee
+Pad Work Out Chop Palm High
+Pad Work Palm High
+Hammer to Arm Round Kick Groin
+Stun Side Kick Round Kick Low & Back
+Stun Side Kick Round Kick Low & Face
+Stun Side Kick Round Kick Low
+Stun Chop Kick Side Kick Low & High

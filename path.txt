@@ -249,7 +249,7 @@
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Basic/Round Kick.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Basic/Side Kick.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Block Jab & Atk/Block Jab & Atk Block Hook H Divert Go Behind.mp4
-/media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Block Jab & Atk/Block Jab & Atk Block Hook H Divert Push.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Block Jab & Atk/Block Jab & Atk Block Hook H Divert Pull.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Block Jab & Atk/Block Jab & Atk Block Hook H Twist.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Block Jab & Atk/Block Jab & Atk Block Hook H.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Block Jab & Atk/Block Jab & Atk Block Hook L Divert Go Behind.mp4
@@ -268,15 +268,15 @@
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Moving Target/Moving Target Round L & Side Kick H.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Moving Target/Moving Target Side & Round Kick L.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Moving Target/Moving Target Side Kick Low.mp4
-/media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Push Pull Twist/Grab Punch L Pull Knee H Push into Wall.mp4
-/media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Push Pull Twist/Grab Twist into Fence.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Push Pull Twist/Fake Hand Fook Grab Punch L Pull Knee L Push into Fence.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Push Pull Twist/Fake Hand Fook Grab Twist into Fence.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Push Pull Twist/Pushing.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Push Pull Twist/Twisting.mp4
-/media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Push Pull Twist/Grab Punch L Pull Knee L Push into Wall.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Push Pull Twist/Fake Hand Fook Grab Punch L Pull Knee L Push into Wall.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Push Pull Twist/Fook Pull.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Push Pull Twist/Fook Push.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Push Pull Twist/Fook Twist.mp4
-/media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Push Pull Twist/Grab Elbow Push into Wall.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Push Pull Twist/Fake Hand Fook Grab Elbow Push into Wall.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Push Pull Twist/Pulling.mp4
 /media/videos/WingChun/Level_2_Knight/Close The Gap/Defensive Knee/Front Kick Def Knee Chain Punch.mp4
 /media/videos/WingChun/Level_2_Knight/Close The Gap/Defensive Knee/Round Kick Out Def Knee Chain Punch.mp4
@@ -635,14 +635,11 @@
 /media/videos/WingChun/Level_3_Master/Techniques/Ground/Ground Control Distance.mp4
 /media/videos/WingChun/Level_3_Master/Techniques/Ground/Ground Rare Naked Choke.mp4
 /media/videos/WingChun/Level_3_Master/Techniques/Ground/Take Down from Behind.mp4
-/media/videos/WingChun/Level_3_Master/Techniques/Ground/Ground Dealing with Throat Grab.mp4
 /media/videos/WingChun/Level_3_Master/Techniques/Ground/Ground Def Atks Arm Lock.mp4
 /media/videos/WingChun/Level_3_Master/Techniques/Ground/Ground Fight Transition.mp4
-/media/videos/WingChun/Level_3_Master/Techniques/Ground/Ground Release from Throat Grab Arm Lock 2.mp4
-/media/videos/WingChun/Level_3_Master/Techniques/Ground/Ground Release from Throat Grab Arm Lock.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Ground/Ground Release from Throat Grab Def Atks Arm Lock.mp4
 /media/videos/WingChun/Level_3_Master/Techniques/Ground/Take Down with Head & Arm Control.mp4
 /media/videos/WingChun/Level_3_Master/Techniques/Ground/Take Down with Rare Naked Choke & Pain Compliance.mp4
-/media/videos/WingChun/Level_3_Master/Techniques/Ground/Ground Rare Naked Choke 2.mp4
 /media/videos/WingChun/Level_3_Master/Techniques/Counter Atk/2x Pak Def Waist Grab Elbow Spine Control Jaw.mp4
 /media/videos/WingChun/Level_3_Master/Techniques/Counter Atk/2x Pak Punch Core Front Kick Out & Reverse Chop.mp4
 /media/videos/WingChun/Level_3_Master/Techniques/Counter Atk/Elbow & Hammer on Fist Fake Hand.mp4
@@ -975,4 +972,20 @@
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Single Hand/Single Hand Punch Uppercut Hammer.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Outside Training/Stepping/Continuous Stepping Forward Chain Punch.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Outside Training/Stepping/Continuous Stepping Forward Punch Fook.mp4
-/media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Moving Target/Moving Target Block Jab.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Counter Atk/Block Two Punch Destroy Fist Hammer Arm In Leg Sweep Back Stamp.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Ground/Ground Arm Bar Lock.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Ground/Ground Def Throat Grab Arm Bar Lock.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Ground/Ground Release when Opp on his Back Arm & Head Lock with Thigh.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Ground/Ground Release when Opp on his Back.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Def Body Grab/Def Single Throat Grab.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Pad Work/Pad Work Cover Elbow Chest.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Pad Work/Pad Work Cross & Reverse & Straight Elbow.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Pad Work/Pad Work In & Out Hammer.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Pad Work/Pad Work Knee.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Pad Work/Pad Work Out Chop Palm High.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Pad Work/Pad Work Palm High.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Combo Atk & Def/Def Punch Atk Kick/Hammer to Arm Round Kick Groin.mp4
+/media/videos/WingChun/Level_1_Apprentice/Close The Gap/stun/Stun Side Kick Round Kick Low & Back.mp4
+/media/videos/WingChun/Level_1_Apprentice/Close The Gap/stun/Stun Side Kick Round Kick Low & Face.mp4
+/media/videos/WingChun/Level_1_Apprentice/Close The Gap/stun/Stun Side Kick Round Kick Low.mp4
+/media/videos/WingChun/Level_1_Apprentice/Close The Gap/stun/Stun Chop Kick Side Kick Low & High.mp4

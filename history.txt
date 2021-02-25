@@ -17,10 +17,10 @@ PD In Trap Punch
 PD In Trap Step In Push
 PD Out Trap
 #
-773
-793
-794
-807
+770
+790
+791
+804
 #
 25
 25
@@ -51,7 +51,7 @@ Sit Up
 89
 87
 86
-877
+874
 #
 25
 25
@@ -132,9 +132,9 @@ PD Out Trap
 234
 237
 227
-786
-791
-807
+783
+788
+804
 #
 25
 25
@@ -173,11 +173,11 @@ PD In Trap In Chop Out Chop<br>&nbsp;&nbsp;Head Lock
 1
 2
 3
-880
-785
+877
+782
+783
+787
 786
-790
-789
 #
 25
 25
@@ -211,11 +211,11 @@ Sit Up
 Sumo Squat
 Light Static Stretching
 #
-879
 876
-877
-878
-774
+873
+874
+875
+771
 #
 25
 25
@@ -289,9 +289,9 @@ Iron Shirt
 17
 7
 21
-783
-788
-777
+780
+785
+774
 #
 25
 25
@@ -377,9 +377,9 @@ Iron Arms
 24
 19
 23
-782
-787
-775
+779
+784
+772
 #
 25
 25
@@ -418,7 +418,7 @@ Opp Pak Grab Out Chop Grab<br>&nbsp;&nbsp;Double Chop
 1
 2
 3
-880
+877
 228
 229
 192
@@ -455,10 +455,10 @@ PD Change Side In Trap
 PD In Trap Double Punch
 PD In Trap Elbow Chest Out<br>&nbsp;&nbsp;Chop
 #
-772
-781
-785
-786
+769
+778
+782
+783
 #
 25
 25
@@ -562,7 +562,7 @@ Iron Legs
 20
 21
 418
-776
+773
 #
 25
 25
@@ -599,10 +599,10 @@ PD In Trap Change Hands
 1
 2
 3
-880
+877
 50
-783
-784
+780
+781
 #
 25
 25
@@ -632,8 +632,8 @@ All
 HIT: JR Squat Climbers Star<br>&nbsp;&nbsp;Crunch Plank Rotation & Knee<br>&nbsp;&nbsp;Burpee Bench Jump Sit up
 Iron Shirt
 #
-770
-777
+767
+774
 #
 25
 25
@@ -673,7 +673,7 @@ Light Static Stretching
 224
 225
 190
-774
+771
 #
 25
 25
@@ -709,9 +709,9 @@ PD In Trap  Double Palm High
 187
 195
 194
-781
-780
-782
+778
+777
+779
 #
 25
 25
@@ -740,9 +740,9 @@ All
 5) Qi Gong Form
 Iron Arms
 #
-880
+877
 4
-775
+772
 #
 25
 25
@@ -767,7 +767,7 @@ All
 Jump Rope 1
 Static Stretching
 #
-771
+768
 418
 #
 25
@@ -842,8 +842,8 @@ Iron Legs
 19
 22
 36
-780
-776
+777
+773
 #
 25
 25
@@ -890,7 +890,7 @@ Opp Pak Fook Gum Neck Crank<br>&nbsp;&nbsp;from Behind
 1
 2
 3
-880
+877
 179
 191
 190
@@ -927,7 +927,7 @@ ED Grab Pull Elbow Arm
 ED Grab Pull Knee
 PD Both Grabbed Cross Release<br>&nbsp;&nbsp;Push
 #
-769
+766
 32
 36
 49
@@ -1005,7 +1005,7 @@ Iron Shirt
 22
 23
 418
-777
+774
 #
 25
 25
@@ -1042,7 +1042,7 @@ PD Grab Both In Leg Sweep<br>&nbsp;&nbsp;Side Kick
 1
 2
 3
-880
+877
 34
 51
 50
@@ -1084,7 +1084,7 @@ Jump Rope 1
 2
 3
 4
-771
+768
 #
 25
 25
@@ -1112,8 +1112,8 @@ All
 Jump Rope 3
 Iron Arms
 #
-773
-775
+770
+772
 #
 25
 25
