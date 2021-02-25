@@ -233,7 +233,7 @@
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Defending When Downed/Cover Side Kick to Head from Knees.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Close The Gap/Divert/Block Round Kick Low Divert Round Kick.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Close The Gap/Divert/Block Round Kick Low Divert Side Kick.mp4
-/media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Close The Gap/Stun/Stun Chop Kick Side Kick.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Close The Gap/Stun/Stun Chop Kick Side Kick Low.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Close The Gap/Stun/Stun Round Kick Chain Punch.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Defending When Downed/Cover Front & Round Kick from Knees.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Defending When Downed/Cover Front & Side Kick from Knees.mp4
@@ -975,3 +975,4 @@
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Single Hand/Single Hand Punch Uppercut Hammer.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Outside Training/Stepping/Continuous Stepping Forward Chain Punch.mp4
 /media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Outside Training/Stepping/Continuous Stepping Forward Punch Fook.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Street/Techniques/Moving Target/Moving Target Block Jab.mp4

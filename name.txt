@@ -233,7 +233,7 @@ Cover Round Kicks to Head from Knees
 Cover Side Kick to Head from Knees
 Block Round Kick Low Divert Round Kick
 Block Round Kick Low Divert Side Kick
-Stun Chop Kick Side Kick
+Stun Chop Kick Side Kick Low
 Stun Round Kick Low Chain Punch
 Cover Front & Round Kick from Knees
 Cover Front & Side Kick from Knees
@@ -975,3 +975,4 @@ Single Hand Punch Hook Punch
 Single Hand Punch Uppercut Hammer
 Continuous Stepping Forward Chain Punch
 Continuous Stepping Forward Punch Fook
+Moving Target Block Jab
