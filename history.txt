@@ -1,5 +1,36 @@
 ##
 2
+Fitness
+Energy Drills
+All
+All
+1
+1200
+3
+1800
+1
+1
+3000
+#
+Jump Rope 3
+PD In Trap Punch
+PD In Trap Step In Push
+PD Out Trap
+#
+773
+793
+794
+807
+#
+25
+25
+25
+25
+#
+2021-02-25
+
+##
+2
 Leg Cond.
 Fitness
 All
@@ -1088,49 +1119,4 @@ Iron Arms
 25
 #
 2020-11-30
-
-##
-3
-Close The Gap
-Techniques
-Leg Cond.
-All
-All
-All
-3
-1500
-3
-1500
-1
-1200
-1
-1
-1
-4200
-#
-Block Jab Stun Chop Kick Side<br>&nbsp;&nbsp;Kick
-Stun Chop Kick Fook Neck Crank
-Stun Round Kick High Chain<br>&nbsp;&nbsp;Punch
-Block Hook Chop Arm Out Chop<br>&nbsp;&nbsp;Block RKick
-Block Hook High Chop Arm
-Block Hook High Chop Arm Out<br>&nbsp;&nbsp;Chop
-Static Stretching
-#
-17
-20
-21
-167
-180
-179
-418
-#
-25
-25
-25
-25
-25
-25
-25
-#
-2020-11-29
 

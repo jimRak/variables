@@ -1,12 +1,12 @@
 2
-Leg Cond.
 Fitness
+Energy Drills
 All
 All
+1
+1200
 3
 1800
 1
-1500
 1
-3
-3300
+3000
