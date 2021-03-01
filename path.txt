@@ -640,7 +640,7 @@
 /media/videos/WingChun/Level_3_Master/Techniques/Ground/Ground Release from Throat Grab Def Atks Arm Lock.mp4
 /media/videos/WingChun/Level_3_Master/Techniques/Ground/Take Down with Head & Arm Control.mp4
 /media/videos/WingChun/Level_3_Master/Techniques/Ground/Take Down with Rare Naked Choke & Pain Compliance.mp4
-/media/videos/WingChun/Level_3_Master/Techniques/Counter Atk/2x Pak Def Waist Grab Elbow Spine Control Jaw.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Def Body Grab/2x Pak Def Waist Grab Elbow Spine Control Jaw.mp4
 /media/videos/WingChun/Level_3_Master/Techniques/Counter Atk/2x Pak Punch Core Front Kick Out & Reverse Chop.mp4
 /media/videos/WingChun/Level_3_Master/Techniques/Counter Atk/Elbow & Hammer on Fist Fake Hand.mp4
 /media/videos/WingChun/Level_3_Master/Techniques/Counter Atk/Prevent Take Down with Elbow to Arm.mp4
@@ -1012,3 +1012,15 @@
 /media/videos/WingChun/Level_2_Knight/Techniques/Destroy Arm/In Chop Arm Uppercut Arm Chain Punch.mp4
 /media/videos/WingChun/Level_2_Knight/Techniques/Destroy Arm/In Chop Arm Uppercut Arm Def Waist Grab.mp4
 /media/videos/WingChun/Level_2_Knight/Techniques/Destroy Arm/Destroy Arm with Cross Elbow Chain Palm.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Combo Atk & Def/Def Punch Atk Punch/Block Two Punch Chain Punch.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Block & Atk/Block Two Punch Punch Out Chop Elbow High.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Block & Atk/Block Two Punch Punch Out Chop Round & Side Kick.mp4
+/media/videos/WingChun/Level_2_Knight/Energy Drills/Punch Drill/Waist Grabbed Take Down/PD Single Grabbed Hammer Arm Chain Chop Throat.mp4
+/media/videos/WingChun/Level_3_Master/Close The Gap/Stun/Stun Side Kick Side Kick Choke Hammer Neck.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Def Body Grab/2x In Chop Arm Def Waist Grab Down Elbow Arm Release Grab Neck Knee Face.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Dynamic Entry/2x Elbow on Fist Grab Arm Elbow Chest Divert Go Behind Rare Naked Choke.mp4
+/media/videos/WingChun/Level_2_Knight/Energy Drills/Punch Drill/Dominate Enemy/PD Change Side Chain Palm Cross Elbow High.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Def Body Grab/2x Pak Def Waist Grab 2x Elbow Spine.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Explosive Entry/Tan Da on Ribs Out Chop Force on Bench Destroy Ribs Front Kick Groin.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Def Body Grab/2x Pak Def Waist Grab Elbow Spine Release Divert Side Kick Thigh.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Def Body Grab/2x Pak Def Waist Grab Elbow Spine Knee Chest.mp4
