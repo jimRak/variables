@@ -1038,7 +1038,7 @@ All
 All
 Stun
 Stun
-Stun
+Divert
 All
 All
 All
@@ -1059,6 +1059,10 @@ All
 All
 All
 All
+All
+All
+All
+Divert
 All
 All
 All
