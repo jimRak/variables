@@ -320,7 +320,7 @@
 /media/videos/WingChun/Level_2_Knight/Close The Gap/Street/Stun/Stun SKick Elbow to Fist Chain Punch Grab Twist.mp4
 /media/videos/WingChun/Level_2_Knight/Close The Gap/Street/Stun/Stun SKick Elbow to Fist Chain Punch Push.mp4
 /media/videos/WingChun/Level_2_Knight/Close The Gap/Street/Stun/Stun SKick Elbow to Fist SKick.mp4
-/media/videos/WingChun/Level_2_Knight/Close The Gap/Street/Stun/Stun SKick on Uneven Ground.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Know Your Surroundings/Stun SKick on Uneven Surface.mp4
 /media/videos/WingChun/Level_2_Knight/Close The Gap/Street/Stun/Stun SKick 2x Elbow to Fist.mp4
 /media/videos/WingChun/Level_2_Knight/Energy Drills/Chi Sao/Basic/Chi Sao Block Hook Low.mp4
 /media/videos/WingChun/Level_2_Knight/Energy Drills/Chi Sao/Basic/Chi Sao Block Jab & Atk 3 Methods.mp4
@@ -1024,3 +1024,41 @@
 /media/videos/WingChun/Level_3_Master/Techniques/Explosive Entry/Tan Da on Ribs Out Chop Force on Bench Destroy Ribs Front Kick Groin.mp4
 /media/videos/WingChun/Level_3_Master/Techniques/Def Body Grab/2x Pak Def Waist Grab Elbow Spine Release Divert Side Kick Thigh.mp4
 /media/videos/WingChun/Level_3_Master/Techniques/Def Body Grab/2x Pak Def Waist Grab Elbow Spine Knee Chest.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Weapon/Block Jab & Hook with Headbutt Grab Arm Fake Hand Pull Down Trap Search Weapon.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Weapon/Shield Block Knife Side H with Elbow Chest Arm Lock Push on Fence Hammer Elbow.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Weapon/Shield Block Knife Side H with Elbow Chest Divert Hand Push on Wall.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Weapon/Shield Block Knife Straight L Divert Push on Wall.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Weapon/Shield Grab Hands Headbutt Chest Knee L Go Behind Take Knife.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Know Your Surroundings/Confined Space Elbow on Fist Fook Out Trap Push or Pull on Wall.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Know Your Surroundings/Confined Space Shield Grab Arm Elbow Chest Guillotine Lock.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Know Your Surroundings/Stairs Surface Divert Front Kick Go Behind Avoid Fall Control Head Knee Back.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Know Your Surroundings/Uneven Surface Elbow on Fist Down Elbow Arm Shield Hook H Elbow Chest.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Know Your Surroundings/Uneven Surface Stun Side Kick Cover Elbow on Fist Side Kick.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Def Body Grab/2x Pak Def Waist Grab 2x Elbow Sine Push.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Def Body Grab/Block Jab Shield Def Leg Grab Release Go Behind 2x Cross Elbow Back.mp4
+/media/videos/WingChun/Level_3_Master/Close The Gap/Stun/Stun Side Kick Shield Elbow Chest Shoulder Bump Side Kick High.mp4
+/media/videos/WingChun/Level_2_Knight/Close The Gap/Street/Stun/Stun Chop Kick Side Kick L & H.mp4
+/media/videos/WingChun/Level_2_Knight/Close The Gap/Street/Divert/Stun Chop Kick Divert Front Kick Front Kick.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Casual Stance/Casual Stance Chain Palm & Out Chop High.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Casual Stance/Casual Stance Chop Kick Grab Arm & Neck Knee.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Casual Stance/Casual Stance Cover Hook H Grab Out Chop Cross Elbow High.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Casual Stance/Casual Stance Out Chop Grab Neck Palm Groin Cross Elbow High.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Casual Stance/Casual Stance Stun Round Kick Low Grab Arm & Neck Headbutt Knee.mp4
+/media/videos/WingChun/Level_3_Master/Close The Gap/Multiple Atks/Stun/Stun RKick Block Hook H Grab Arm & Neck Push Shield 2nd Opp Eye Gauge Go Behind Choke.mp4
+/media/videos/WingChun/Level_3_Master/Close The Gap/Multiple Atks/Stun/Stun Round Kick Elbow on Fist Hammer Neck Grab Arm & Neck Knee Push on 2nd Opp.mp4
+/media/videos/WingChun/Level_3_Master/Close The Gap/Multiple Atks/Stun/Stun Side Kick Fake Hand Fook Grab Knee Push into 2nd Opp.mp4
+/media/videos/WingChun/Level_2_Knight/Techniques/Def Body Grab/Def Both Neck Grab & Knee Chest.mp4
+/media/videos/WingChun/Level_1_Apprentice/Close The Gap/stepping/Stepping with Fake Hands & Stuns.mp4
+/media/videos/WingChun/Level_1_Apprentice/Techniques/Combo Atk & Def/Def Punch Atk Punch/Pak Da Hammer High.mp4
+/media/videos/WingChun/Level_3_Master/Close The Gap/Stepping/Stepping Forward Changing Side on Concrete.mp4
+/media/videos/WingChun/Level_3_Master/Close The Gap/Stepping/Stepping Forward Changing Side on Dirt & Rocks.mp4
+/media/videos/WingChun/Level_3_Master/Close The Gap/Stepping/Stepping Forward Changing Side on Grass.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Know Your Surroundings/Uneven Surface Block Jab Stun Chop or Side Kick.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Walking/Walking Chop Kick Low on Wall on Concrete.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Walking/Walking Round Kick & Side Kick Low on Wall on Concrete .mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Walking/Walking Round Kick Low on Wall on Grass or Concrete.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Walking/Walking Side Kick & Round Kick High on Wall on Concrete.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Walking/Walking Side Kick High on Flexible Tree on Dirt.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Walking/Walking Side Kick High on Wall on Concrete.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Walking/Walking Side Kick L & H on Soft Fence on Concrete.mp4
+/media/videos/WingChun/Level_3_Master/Techniques/Walking/Walking Side Kick Low on Wall on Grass or Concrete.mp4
