@@ -1,4 +1,46 @@
 ##
+3
+Close The Gap
+Leg Cond.
+Iron Body
+All
+All
+All
+3
+1800
+1
+1200
+2
+1800
+1
+1
+1
+4800
+#
+Divert Round Kick Chop Kick
+Divert Side Kick Round Kick
+Stun Side Kick Chain Punch
+Static Stretching
+Iron Arms
+Iron Legs
+#
+928
+929
+239
+418
+772
+773
+#
+25
+25
+25
+25
+25
+25
+#
+2021-03-03
+
+##
 2
 Forms
 Iron Body
@@ -1094,41 +1136,4 @@ PD Grab Both In Leg Sweep<br>&nbsp;&nbsp;Side Kick
 25
 #
 2020-12-21
-
-##
-2
-Forms
-Fitness
-All
-All
-5
-1800
-1
-1800
-1
-1
-3600
-#
-1) Siu Lim Tao
-2) Chum Kiu
-3) Biu Jee
-4) Mook Yan Jong
-5) Qi Gong Form
-Jump Rope 1
-#
-0
-1
-2
-3
-4
-768
-#
-25
-25
-25
-25
-25
-15
-#
-2020-12-19
 
