@@ -1,4 +1,33 @@
 ##
+1
+Energy Drills
+All
+5
+3000
+1
+3000
+#
+ED Grab Pull Knee Chop Kick
+PD In Trap In Chop Elbow
+PD In Trap Move In Palm To<br>&nbsp;&nbsp;Chin
+PD In Trap Palm to Chin
+PD In Trap Throat Grab Elbow<br>&nbsp;&nbsp;Chest Out Chop
+#
+879
+785
+794
+795
+792
+#
+25
+25
+25
+25
+25
+#
+2021-03-04
+
+##
 3
 Close The Gap
 Leg Cond.
@@ -1093,47 +1122,4 @@ Iron Shirt
 25
 #
 2020-12-22
-
-##
-2
-Forms
-Energy Drills
-All
-All
-5
-1200
-3
-1800
-1
-1
-3000
-#
-1) Siu Lim Tao
-2) Chum Kiu
-3) Biu Jee
-4) Mook Yan Jong
-6) Pole Form
-ED Grab Pull Knee Out Leg<br>&nbsp;&nbsp;Sweep
-PD Grab Both In Leg Sweep
-PD Grab Both In Leg Sweep<br>&nbsp;&nbsp;Side Kick
-#
-0
-1
-2
-3
-877
-34
-51
-50
-#
-25
-25
-25
-25
-25
-25
-25
-25
-#
-2020-12-21
 
